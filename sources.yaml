@@ -1,0 +1,17 @@
+sources:
+  - name: speedyapply_new_grad
+    display_name: SpeedyApply - New Grad USA
+    type: speedyapply
+    repo: speedyapply/2027-SWE-College-Jobs
+    path: NEW_GRAD_USA.md
+    branch: main
+    sections:
+      - FAANG+
+      - Other
+
+  - name: simplify_summer2027
+    display_name: SimplifyJobs - Summer 2027 Internships
+    type: simplify
+    repo: SimplifyJobs/Summer2027-Internships
+    path: README.md
+    branch: dev
