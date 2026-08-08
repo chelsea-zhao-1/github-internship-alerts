@@ -1,6 +1,6 @@
 {
   "initialized_at": "2026-08-07T18:15:21Z",
-  "last_checked": "2026-08-07T18:15:22Z",
+  "last_checked": "2026-08-08T11:33:39Z",
   "last_status": "success",
   "roles": {
     "url:https://careers.roblox.com/jobs/8072244": {
@@ -5980,7 +5980,7 @@
       "first_seen": "2026-08-07T18:15:21Z"
     },
     "url:https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002": {
-      "company": "\u21b3",
+      "company": "Marshall Wace",
       "title": "Technology Intern",
       "location": "NYC",
       "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002?utm_source=Simplify&ref=Simplify",
@@ -6124,7 +6124,7 @@
       "first_seen": "2026-08-07T18:15:21Z"
     },
     "url:https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26011994": {
-      "company": "American Express",
+      "company": "\u21b3",
       "title": "Product Innovation Intern - Credit & Fraud Risk",
       "location": "Phoenix, AZ",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994?utm_source=Simplify&ref=Simplify",
@@ -7490,6 +7490,240 @@
       "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "source": "SimplifyJobs - Summer 2027 Internships",
       "first_seen": "2026-08-07T18:15:21Z"
+    },
+    "url:https://jobs.bytedance.com/en/position/7671147251943213317/detail": {
+      "company": "\ud83d\udd25 ByteDance",
+      "title": "Software Development Engineer Intern - Network Automation - 2027 Summer",
+      "location": "San Jose, CA",
+      "url": "https://jobs.bytedance.com/en/position/7671147251943213317/detail?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://www.trlm.com/apply/5207089007": {
+      "company": "Trillium",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "NYC",
+      "url": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003": {
+      "company": "Axon",
+      "title": "Software Engineer Intern",
+      "location": "Boston, MASeattle, WA",
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008": {
+      "company": "The Nuclear Company",
+      "title": "Software Engineering Intern - Product - Platform",
+      "location": "Washington, DC",
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://lifeattiktok.com/search/7671211313289398581": {
+      "company": "\ud83d\udd25 TikTok",
+      "title": "Frontend Engineer Intern - Ads Interface",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7671211313289398581?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://job-boards.greenhouse.io/cssmerge/jobs/8687896002": {
+      "company": "Atoms",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "5 locationsSeattle, WASFLANYCMountain View, CA",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply": {
+      "company": "Belvedere Trading",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Chicago, IL",
+      "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://ameren.wd1.myworkdayjobs.com/external/job/st-louis-mo/derms-co-op-intern_033809-1": {
+      "company": "Ameren",
+      "title": "DERMS Co-op/Intern",
+      "location": "St. Louis, MOIllinois",
+      "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/DERMS-Co-Op-Intern_033809-1?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://ameren.wd1.myworkdayjobs.com/external/job/st-louis-mo/digital-co-op_033841-1": {
+      "company": "\u21b3",
+      "title": "Digital Co-op",
+      "location": "St. Louis, MO",
+      "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005": {
+      "company": "Chicago Trading Company",
+      "title": "Software Engineering Intern",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://lifeattiktok.com/search/7670010726514493749": {
+      "company": "\ud83d\udd25 TikTok",
+      "title": "AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7670010726514493749?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcf1 Product Management Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://medline.wd5.myworkdayjobs.com/en-us/medline/job/northfield-illinois/mba-intern--product-management---summer-2027_r2615805": {
+      "company": "Medline",
+      "title": "MBA Intern - Product Management \ud83c\udf93",
+      "location": "Chicago, ILNorthfield, IL",
+      "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/MBA-Intern--Product-Management---Summer-2027_R2615805?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcf1 Product Management Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://epicgames.com/careers/jobs/5708589004": {
+      "company": "Epic Games",
+      "title": "Machine Learning Intern - Special Projects - Epic Research Group \ud83c\udf93",
+      "location": "London, UK",
+      "url": "https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://epicgames.com/careers/jobs/6138134004": {
+      "company": "\u21b3",
+      "title": "Machine Learning Intern \ud83c\udf93",
+      "location": "CanadaUnited KingdomUnited States",
+      "url": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://epicgames.com/careers/jobs/6138140004": {
+      "company": "\u21b3",
+      "title": "Machine Learning Intern - Special Projects - Epic Research Group \ud83c\udf93",
+      "location": "Montreal, QC, Canada",
+      "url": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008": {
+      "company": "The Nuclear Company",
+      "title": "Data Science Intern",
+      "location": "Washington, DC",
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008": {
+      "company": "\u21b3",
+      "title": "AI/ML Engineer Intern",
+      "location": "Washington, DC",
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents/job/new-york-new-york-united-states-of-america/xmlname-2027-capital-markets--quants-summer-associate--quantitative-technology-services_r-0000183482": {
+      "company": "Royal Bank of Canada",
+      "title": "Capital Markets Quant Summer Associate - Quantitative Technology Services",
+      "location": "NYC",
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183482?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/usa-va-falls-church/summer-2027-ai-machine-learning-internship--dc-metro-area_rq225912": {
+      "company": "General Dynamics Information Technology",
+      "title": "Artificial Intelligence/Machine Learning Intern",
+      "location": "Falls Church, VA",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://jpmc.fa.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/210775223": {
+      "company": "JP Morgan Chase",
+      "title": "Data Internship - Data & AI Program",
+      "location": "8 locationsPalo Alto, CANewark, DEPlano, TXChicago, ILJersey City, NJColumbus, OHNYCWilmington, DE",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://jpmc.fa.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/210773869": {
+      "company": "\u21b3",
+      "title": "Data & AI Intern - Analyst",
+      "location": "8 locationsPalo Alto, CANewark, DEPlano, TXChicago, ILJersey City, NJColumbus, OHNYCWilmington, DE",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://apply.workable.com/capula-investment-management-ltd/j/a15a62a8be/apply": {
+      "company": "Capula",
+      "title": "Trading and Research Intern",
+      "location": "London, UK",
+      "url": "https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcc8 Quantitative Finance Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply": {
+      "company": "Belvedere Trading",
+      "title": "Quantitative Trading Intern - Summer 2027",
+      "location": "Chicago, IL",
+      "url": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcc8 Quantitative Finance Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents/job/new-york-new-york-united-states-of-america/xmlname-2027-capital-markets--global-markets-quantitative-trading-summer-analyst_r-0000183468": {
+      "company": "Royal Bank of Canada",
+      "title": "Global Markets Quantitative Trading Summer Analyst - Capital Markets",
+      "location": "NYC",
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000183468?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcc8 Quantitative Finance Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents/job/new-york-new-york-united-states-of-america/xmlname-2027-capital-markets--global-markets-sales---trading-summer-analyst_r-0000147305-2": {
+      "company": "\u21b3",
+      "title": "Global Markets Sales & Trading Summer Analyst - Capital Markets",
+      "location": "NYC",
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Sales---Trading-Summer-Analyst_R-0000147305-2?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcc8 Quantitative Finance Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005": {
+      "company": "Chicago Trading Company",
+      "title": "Quant Trading Intern",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcc8 Quantitative Finance Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-08T11:33:38Z"
     }
   }
 }
