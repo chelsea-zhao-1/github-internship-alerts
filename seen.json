@@ -1,6 +1,6 @@
 {
   "initialized_at": "2026-08-07T18:15:21Z",
-  "last_checked": "2026-08-08T11:33:39Z",
+  "last_checked": "2026-08-09T11:34:10Z",
   "last_status": "success",
   "roles": {
     "url:https://careers.roblox.com/jobs/8072244": {
@@ -870,8 +870,8 @@
     "url:https://www.ixl.com/company/jobs": {
       "company": "IXL Learning",
       "title": "Software Engineer - New Grad",
-      "location": "Raleigh-Durham, NC +1",
-      "url": "https://www.ixl.com/company/jobs?gh_jid=8663379002",
+      "location": "San Mateo, CA",
+      "url": "https://www.ixl.com/company/jobs?gh_jid=8662881002",
       "section": "Other",
       "source": "SpeedyApply - New Grad USA",
       "first_seen": "2026-08-07T18:15:21Z"
@@ -3173,9 +3173,9 @@
     },
     "url:https://revolutional.com/job-openings": {
       "company": "Revolutional",
-      "title": "Associate Full Stack Engineer",
+      "title": "Associate Application Programmer / Java Developer",
       "location": "McLean, VA",
-      "url": "https://revolutional.com/job-openings/?gh_jid=7801406003",
+      "url": "https://revolutional.com/job-openings/?gh_jid=7801391003",
       "section": "Other",
       "source": "SpeedyApply - New Grad USA",
       "first_seen": "2026-08-07T18:15:21Z"
@@ -7724,6 +7724,33 @@
       "section": "\ud83d\udcc8 Quantitative Finance Internship Roles",
       "source": "SimplifyJobs - Summer 2027 Internships",
       "first_seen": "2026-08-08T11:33:38Z"
+    },
+    "url:https://boeing.wd1.myworkdayjobs.com/en-us/external_careers/job/usa---chantilly-va/software-engineer-systems--associate-experienced-_jr2026511797-1": {
+      "company": "Boeing",
+      "title": "Software Engineer-Systems - Associate/Experienced",
+      "location": "Chantilly, VA +2",
+      "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Chantilly-VA/Software-Engineer-Systems--Associate-Experienced-_JR2026511797-1",
+      "section": "Other",
+      "source": "SpeedyApply - New Grad USA",
+      "first_seen": "2026-08-09T11:34:09Z"
+    },
+    "url:https://boeing.wd1.myworkdayjobs.com/en-us/external_careers/job/usa---hazelwood-mo/entry-level-software-test-engineer_jr2026516717-1": {
+      "company": "Boeing",
+      "title": "Entry-Level Software Test Engineer",
+      "location": "Hazelwood, MO +1",
+      "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hazelwood-MO/Entry-Level-Software-Test-Engineer_JR2026516717-1",
+      "section": "Other",
+      "source": "SpeedyApply - New Grad USA",
+      "first_seen": "2026-08-09T11:34:09Z"
+    },
+    "url:https://gdit.wd5.myworkdayjobs.com/en-us/external_career_site/job/usa-va-mclean/software-developer-ts-sci-w-polygraph_rq207428": {
+      "company": "GDIT",
+      "title": "Software Developer TS/SCI w/Polygraph",
+      "location": "McLean, VA",
+      "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-VA-McLean/Software-Developer-TS-SCI-w-Polygraph_RQ207428",
+      "section": "Other",
+      "source": "SpeedyApply - New Grad USA",
+      "first_seen": "2026-08-09T11:34:09Z"
     }
   }
 }
