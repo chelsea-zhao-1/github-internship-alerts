@@ -1,6 +1,6 @@
 {
   "initialized_at": "2026-08-07T18:15:21Z",
-  "last_checked": "2026-08-09T11:34:10Z",
+  "last_checked": "2026-08-10T11:51:57Z",
   "last_status": "success",
   "roles": {
     "url:https://careers.roblox.com/jobs/8072244": {
@@ -7751,6 +7751,33 @@
       "section": "Other",
       "source": "SpeedyApply - New Grad USA",
       "first_seen": "2026-08-09T11:34:09Z"
+    },
+    "url:https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/tallahassee-fl/strategic-technology-intern---summer-2027--sed-division--for-current-former-hntb-interns-only-_r-31092": {
+      "company": "HNTB",
+      "title": "Strategic Technology Intern - SED Division",
+      "location": "Tampa, FLTallahassee, FL",
+      "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-10T11:51:57Z"
+    },
+    "url:https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/tallahassee-fl/strategic-technology-intern---summer-2027--sed-division--for-current-former-hntb-interns-only-_r-31092-1": {
+      "company": "\u21b3",
+      "title": "Strategic Technology Intern - SED Division",
+      "location": "Tampa, FLTallahassee, FL",
+      "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092-1?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-10T11:51:57Z"
+    },
+    "url:https://jobs.smartrecruiters.com/infinitequant/744000142560129": {
+      "company": "InfiniteQuant",
+      "title": "Quantitative Researcher Intern - Summer 2027 \ud83c\udf93",
+      "location": "Dubai - United Arab EmiratesNYC",
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcc8 Quantitative Finance Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-10T11:51:57Z"
     }
   }
 }
