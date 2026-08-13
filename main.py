@@ -6,6 +6,7 @@ from adapters.github_fetch import fetch_markdown
 from adapters.speedyapply import parse_speedyapply
 from adapters.simplify import parse_simplify
 from pipeline.dedupe import dedupe_roles, role_key
+from pipeline.filter import filter_roles
 from pipeline.state import build_snapshot, compute_new_roles, load_state, save_state
 from notify.gmail import send_email
 
@@ -89,7 +90,13 @@ def _fetch_source_roles(source: dict) -> list[dict]:
         path=source["path"],
         branch=source.get("branch", "main"),
     )
-    roles = parser(source, content)
+    parsed = parser(source, content)
+    roles, dropped = filter_roles(parsed)
+    print(
+        f"[{source['name']}] Parsed {len(parsed)} role(s), "
+        f"kept {len(roles)} after title filter "
+        f"({len(dropped)} dropped)."
+    )
     for role in roles:
         role["source"] = source["display_name"]
     return roles
@@ -122,7 +129,6 @@ def main() -> int:
                 print(f"[{name}] Also failed to send error email: {notify_err}")
             continue
 
-        print(f"[{name}] Parsed {len(roles)} role(s).")
         all_roles.extend(roles)
 
     unique_roles = dedupe_roles(all_roles)

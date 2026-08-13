@@ -92,6 +92,41 @@ class TestSimplifyParser:
         assert roles[0]["url"].startswith("https://lifeattiktok.com/")
 
 
+class TestTitleFilter:
+    def _ok(self, title: str) -> bool:
+        from pipeline.filter import is_relevant_role
+
+        return is_relevant_role({"title": title})
+
+    def test_keeps_intern_analyst_early_career(self):
+        assert self._ok("Software Engineer Intern - Summer 2027")
+        assert self._ok("Data Analyst Intern")
+        assert self._ok("Software Engineer - Early Career")
+        assert self._ok("Data Analyst - Dashboard Developer")
+        assert self._ok("Co-op Software Engineer")
+        assert self._ok("Capital Markets Quant Summer Associate")
+
+    def test_drops_swe_levels_even_with_early_career(self):
+        assert not self._ok("Software Engineer I")
+        assert not self._ok("Software Engineer II - Backend")
+        assert not self._ok("SWE I - New Grad")
+        assert not self._ok("Software Development Engineer I - Early Career")
+        assert not self._ok("Front-End Engineer II")
+
+    def test_drops_new_grad_and_experienced(self):
+        assert not self._ok("Software Engineer Graduate - 2027 Start")
+        assert not self._ok("New College Grad Software Engineer")
+        assert not self._ok("Software Engineer - 1-2 years experience")
+        assert not self._ok("Software Engineer - Master's Required")
+        assert not self._ok("Senior Software Engineer")
+        assert not self._ok("Experienced Front-End Insurance Analyst")
+        assert not self._ok("Software Configuration Management Analyst - Level 2 or 3")
+
+    def test_intern_not_confused_with_engineer_i(self):
+        assert self._ok("Software Engineer Intern")
+        assert self._ok("Software Engineer Intern - ML Infra - PhD")
+
+
 class TestDedupe:
     def test_same_url_deduped(self):
         role_a = {

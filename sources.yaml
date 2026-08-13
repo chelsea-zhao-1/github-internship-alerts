@@ -1,4 +1,14 @@
 sources:
+  - name: speedyapply_internships
+    display_name: SpeedyApply - USA Internships
+    type: speedyapply
+    repo: speedyapply/2027-SWE-College-Jobs
+    path: README.md
+    branch: main
+    sections:
+      - FAANG+
+      - Other
+
   - name: speedyapply_new_grad
     display_name: SpeedyApply - New Grad USA
     type: speedyapply

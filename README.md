@@ -6,10 +6,21 @@ Daily monitor for internship listings posted on GitHub README repos. Compares ag
 
 | Source | What it watches |
 |---|---|
-| **SpeedyApply** | `NEW_GRAD_USA.md` — FAANG+ and Other sections only |
-| **SimplifyJobs** | `Summer2027-Internships` README — all categories |
+| **SpeedyApply internships** | `README.md` - FAANG+ and Other sections |
+| **SpeedyApply new grad** | `NEW_GRAD_USA.md` - FAANG+ and Other, title-filtered |
+| **SimplifyJobs** | `Summer2027-Internships` README - all categories |
 
 Cross-repo overlap is handled automatically (same apply URL = same role).
+
+## Title filter
+
+After parsing, titles must look like intern / analyst / early career (or co-op, student, apprentice, rotational). Dropped:
+
+- SWE I / SWE II / Software Engineer I / Engineer II and similar
+- Generic new-grad SWE titles with none of the keywords above
+- Master's / PhD / years-of-experience / senior / staff in the title (internships are kept)
+
+This only sees the **title** on the GitHub list, not the job description, so a posting titled "Software Engineer Intern" that requires a master's in the JD will still come through.
 
 ## Setup
 
@@ -39,7 +50,7 @@ Push to GitHub and the workflow runs every morning at **7 AM ET**.
 
 ### First run behavior
 
-The first run records every current listing in `seen.json` without flooding your inbox. You get one init email: *"Recorded N existing listings — future emails are new only."*
+The first run records every current listing in `seen.json` without flooding your inbox. You get one init email: *"Recorded N existing listings - future emails are new only."*
 
 ## Local test (no email)
 
@@ -49,11 +60,15 @@ from adapters.github_fetch import fetch_markdown
 from adapters.speedyapply import parse_speedyapply
 from adapters.simplify import parse_simplify
 from pipeline.dedupe import dedupe_roles
+from pipeline.filter import filter_roles
 
-sa = parse_speedyapply(fetch_markdown('speedyapply/2027-SWE-College-Jobs', 'NEW_GRAD_USA.md'), ['FAANG+', 'Other'])
+sa_intern = parse_speedyapply(fetch_markdown('speedyapply/2027-SWE-College-Jobs', 'README.md'), ['FAANG+', 'Other'])
+sa_ng = parse_speedyapply(fetch_markdown('speedyapply/2027-SWE-College-Jobs', 'NEW_GRAD_USA.md'), ['FAANG+', 'Other'])
 si = parse_simplify(fetch_markdown('SimplifyJobs/Summer2027-Internships', 'README.md', 'dev'))
-all_roles = dedupe_roles(sa + si)
-print(f'SpeedyApply: {len(sa)}, Simplify: {len(si)}, unique: {len(all_roles)}')
+kept, dropped = filter_roles(sa_intern + sa_ng + si)
+all_roles = dedupe_roles(kept)
+print(f'interns: {len(sa_intern)}, new grad: {len(sa_ng)}, simplify: {len(si)}')
+print(f'kept: {len(kept)}, dropped: {len(dropped)}, unique: {len(all_roles)}')
 "
 ```
 
@@ -61,5 +76,5 @@ print(f'SpeedyApply: {len(sa)}, Simplify: {len(si)}, unique: {len(all_roles)}')
 
 Edit `sources.yaml`. Supported types:
 
-- `speedyapply` — markdown tables with `### Section` headers; set `sections: [...]`
-- `simplify` — HTML tables in README; parses all sections
+- `speedyapply` - markdown tables with `### Section` headers; set `sections: [...]`
+- `simplify` - HTML tables in README; parses all sections
