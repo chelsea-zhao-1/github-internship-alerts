@@ -10,9 +10,9 @@ Daily monitor for internship listings posted on GitHub README repos. Compares ag
 | **SpeedyApply new grad** | `NEW_GRAD_USA.md` - FAANG+ and Other, title-filtered |
 | **SimplifyJobs** | `Summer2027-Internships` README - all categories |
 
-Cross-repo overlap is handled automatically (same apply URL = same role).
+Cross-repo overlap is handled automatically: same apply URL **or** same company + title + location counts as one role. Roles already in `seen.json` are not emailed again.
 
-## Title filter
+## Title and location filter
 
 After parsing, titles must look like intern / analyst / early career (or co-op, student, apprentice, rotational). Dropped:
 
@@ -21,6 +21,8 @@ After parsing, titles must look like intern / analyst / early career (or co-op, 
 - Master's / PhD / years-of-experience / senior / staff in the title (internships are kept)
 
 This only sees the **title** on the GitHub list, not the job description, so a posting titled "Software Engineer Intern" that requires a master's in the JD will still come through.
+
+Locations must look US-based (city + state, USA, NYC, Remote - USA). Mixed lists that include a US office are kept. Canada / UK / EU / China / remote-in-Canada only are dropped. Bare "Remote" with no country is kept.
 
 ## Setup
 

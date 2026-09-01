@@ -40,15 +40,36 @@ def save_state(state: dict) -> None:
         f.write("\n")
 
 
+def _keys(role: dict, key_fn) -> list[str]:
+    result = key_fn(role)
+    if isinstance(result, str):
+        return [result]
+    return list(result)
+
+
 def compute_new_roles(current: list[dict], seen_roles: dict, key_fn) -> list[dict]:
     seen_ids = set(seen_roles.keys())
-    return [role for role in current if key_fn(role) not in seen_ids]
+    for stored in seen_roles.values():
+        if isinstance(stored, dict):
+            seen_ids.update(_keys(stored, key_fn))
+    new: list[dict] = []
+    for role in current:
+        if any(key in seen_ids for key in _keys(role, key_fn)):
+            continue
+        new.append(role)
+    return new
 
 
 def build_snapshot(roles: list[dict], existing: dict, key_fn, timestamp: str) -> dict:
     snapshot = dict(existing)
     for role in roles:
-        rid = key_fn(role)
+        ids = _keys(role, key_fn)
+        first_seen = timestamp
+        for rid in ids:
+            prev = existing.get(rid)
+            if prev and prev.get("first_seen"):
+                first_seen = prev["first_seen"]
+                break
         entry = {
             "company": role["company"],
             "title": role["title"],
@@ -56,7 +77,8 @@ def build_snapshot(roles: list[dict], existing: dict, key_fn, timestamp: str) ->
             "url": role.get("url", ""),
             "section": role.get("section", ""),
             "source": role.get("source", ""),
-            "first_seen": existing.get(rid, {}).get("first_seen", timestamp),
+            "first_seen": first_seen,
         }
-        snapshot[rid] = entry
+        for rid in ids:
+            snapshot[rid] = entry
     return snapshot

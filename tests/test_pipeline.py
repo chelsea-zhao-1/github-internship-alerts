@@ -7,7 +7,8 @@ from unittest.mock import patch
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 
-from pipeline.dedupe import dedupe_roles, role_key
+from pipeline.dedupe import dedupe_roles, role_key, role_keys
+from pipeline.filter import is_us_location, filter_roles
 
 
 SPEEDYAPPLY_SAMPLE = """
@@ -146,6 +147,21 @@ class TestDedupe:
         ]
         assert len(dedupe_roles(roles)) == 2
 
+    def test_same_identity_different_urls_deduped(self):
+        role_a = {
+            "company": "Google",
+            "title": "Software Engineer Intern",
+            "location": "Mountain View, CA, USA",
+            "url": "https://speedyapply.example/google-1",
+        }
+        role_b = {
+            "company": "Google",
+            "title": "Software Engineer Intern",
+            "location": "Mountain View, CA",
+            "url": "https://simplify.example/google-1?utm_source=Simplify",
+        }
+        assert len(dedupe_roles([role_a, role_b])) == 1
+
 
 class TestState:
     def test_cold_start_when_missing(self, tmp_path, monkeypatch):
@@ -169,6 +185,58 @@ class TestState:
         seen = {role_key(current[0]): {}}
         new = compute_new_roles(current, seen, role_key)
         assert new == []
+
+    def test_seen_identity_blocks_new_url(self):
+        from pipeline.state import compute_new_roles
+
+        seen_role = {
+            "company": "Google",
+            "title": "Software Engineer Intern",
+            "location": "Mountain View, CA",
+            "url": "https://old.example/google",
+        }
+        current = [
+            {
+                "company": "Google",
+                "title": "Software Engineer Intern",
+                "location": "Mountain View, CA, USA",
+                "url": "https://new.example/google",
+            }
+        ]
+        seen = {role_key(seen_role): seen_role}
+        assert compute_new_roles(current, seen, role_keys) == []
+
+
+class TestUsLocation:
+    def test_keeps_us_locations(self):
+        assert is_us_location("San Mateo, CA")
+        assert is_us_location("California, USA +7")
+        assert is_us_location("Remote - USA")
+        assert is_us_location("NYC")
+        assert is_us_location("Texas")
+        assert is_us_location("United States")
+        assert is_us_location("CanadaUnited KingdomUnited States")
+        assert is_us_location("Remote - New York City, NY +1")
+        assert is_us_location("Dubai - United Arab EmiratesNYC")
+
+    def test_drops_foreign_only(self):
+        assert not is_us_location("London, UK")
+        assert not is_us_location("Montreal, QC, Canada")
+        assert not is_us_location("Remote in Canada")
+        assert not is_us_location("Remote - Vancouver, Canada +3")
+        assert not is_us_location("Yinchuan, China +1")
+        assert not is_us_location("Asti, Italy +1")
+        assert not is_us_location("Edinburgh, UK")
+
+    def test_filter_roles_applies_us_and_title(self):
+        roles = [
+            {"title": "Software Engineer Intern", "location": "Seattle, WA"},
+            {"title": "Software Engineer Intern", "location": "London, UK"},
+            {"title": "Senior Software Engineer", "location": "Austin, TX"},
+        ]
+        kept, dropped = filter_roles(roles)
+        assert [r["location"] for r in kept] == ["Seattle, WA"]
+        assert len(dropped) == 2
 
 
 class TestMainColdStart:
@@ -196,4 +264,5 @@ class TestMainColdStart:
         subject, _ = mock_send.call_args[0]
         assert "initialized" in subject.lower()
         seen = json.loads((tmp_path / "seen.json").read_text())
-        assert len(seen["roles"]) == 1
+        companies = {v["company"] for v in seen["roles"].values()}
+        assert companies == {"Co"}

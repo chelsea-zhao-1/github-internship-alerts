@@ -5,7 +5,7 @@ from datetime import datetime, timezone
 from adapters.github_fetch import fetch_markdown
 from adapters.speedyapply import parse_speedyapply
 from adapters.simplify import parse_simplify
-from pipeline.dedupe import dedupe_roles, role_key
+from pipeline.dedupe import dedupe_roles, role_keys
 from pipeline.filter import filter_roles
 from pipeline.state import build_snapshot, compute_new_roles, load_state, save_state
 from notify.gmail import send_email
@@ -94,7 +94,7 @@ def _fetch_source_roles(source: dict) -> list[dict]:
     roles, dropped = filter_roles(parsed)
     print(
         f"[{source['name']}] Parsed {len(parsed)} role(s), "
-        f"kept {len(roles)} after title filter "
+        f"kept {len(roles)} after title/US filter "
         f"({len(dropped)} dropped)."
     )
     for role in roles:
@@ -149,13 +149,13 @@ def main() -> int:
             return 1
 
         state["initialized_at"] = timestamp
-        state["roles"] = build_snapshot(unique_roles, {}, role_key, timestamp)
+        state["roles"] = build_snapshot(unique_roles, {}, role_keys, timestamp)
         state["last_status"] = overall_status
         save_state(state)
         print(f"[main] Cold start complete. Recorded {len(unique_roles)} role(s).")
         return 0 if overall_status == "success" else 1
 
-    new_roles = compute_new_roles(unique_roles, state.get("roles", {}), role_key)
+    new_roles = compute_new_roles(unique_roles, state.get("roles", {}), role_keys)
     print(f"[main] {len(new_roles)} new role(s) detected.")
 
     try:
@@ -166,7 +166,7 @@ def main() -> int:
         save_state(state)
         return 1
 
-    state["roles"] = build_snapshot(unique_roles, state.get("roles", {}), role_key, timestamp)
+    state["roles"] = build_snapshot(unique_roles, state.get("roles", {}), role_keys, timestamp)
     state["last_status"] = overall_status
     save_state(state)
     print(f"[main] Done. Status: {overall_status}")
