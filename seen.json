@@ -1,6 +1,6 @@
 {
   "initialized_at": "2026-08-07T18:15:21Z",
-  "last_checked": "2026-09-15T15:29:49Z",
+  "last_checked": "2026-09-16T15:22:23Z",
   "last_status": "success",
   "roles": {
     "url:https://careers.roblox.com/jobs/8072244": {
@@ -12118,7 +12118,7 @@
       "first_seen": "2026-08-19T11:29:35Z"
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--deep-learning-computer-architecture_jr2023491": {
-      "company": "\u21b3",
+      "company": "\ud83d\udd25 NVIDIA",
       "title": "Deep Learning Computer Architecture Intern",
       "location": "Santa Clara, CA",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491?utm_source=Simplify&ref=Simplify",
@@ -17645,9 +17645,9 @@
     },
     "url:https://careers.withwaymo.com/jobs": {
       "company": "Waymo",
-      "title": "2027 Summer Intern - MS - Software Engineering - Behavior Test",
-      "location": "San Francisco, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
+      "title": "2027 Summer Intern - BS/MS - Software Engineering - Commercialization",
+      "location": "San Francisco, CA +1",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-01T15:26:03Z"
@@ -19222,7 +19222,7 @@
       "company": "DraftKings",
       "title": "Software Engineer Intern - Summer 2027",
       "location": "Boston, MA",
-      "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/campus_career_portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14929",
+      "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/campus_career_portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-02T15:01:25Z"
@@ -20284,10 +20284,10 @@
       "company": "Copart",
       "title": "Software Engineering Intern",
       "location": "Dallas, TX",
-      "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173",
+      "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
-      "first_seen": "2026-08-28T21:20:12Z"
+      "first_seen": "2026-08-14T11:49:02Z"
     },
     "id:efd27910175d129726f1": {
       "company": "Generac",
@@ -20302,7 +20302,7 @@
       "company": "Teledyne",
       "title": "NHRC Software Engineering Internship - Summer 2027",
       "location": "Huntsville, AL",
-      "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2",
+      "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-08-15T11:24:48Z"
@@ -20482,7 +20482,7 @@
       "company": "Medtronic",
       "title": "Software Engineering Intern - Summer 2027",
       "location": "Fridley, MN +20",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-08-14T11:49:02Z"
@@ -31136,11 +31136,11 @@
     },
     "url:https://job-boards.greenhouse.io/nisc/jobs/8092699": {
       "company": "National Information Solutions Cooperative",
-      "title": "Software Development Intern",
-      "location": "Lake St Louis, MOMandan, NDCedar Rapids, IA",
-      "url": "https://job-boards.greenhouse.io/nisc/jobs/8092699?utm_source=Simplify&ref=Simplify",
-      "section": "\ud83d\udcbb Software Engineering Internship Roles",
-      "source": "SimplifyJobs - Summer 2027 Internships",
+      "title": "Intern - Software Development",
+      "location": "Cedar Rapids, IA +2",
+      "url": "https://job-boards.greenhouse.io/nisc/jobs/8092699",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-03T14:55:39Z"
     },
     "id:fbc8981579abd8d11c85": {
@@ -31189,12 +31189,12 @@
       "first_seen": "2026-09-03T14:55:39Z"
     },
     "url:https://job-boards.greenhouse.io/testnisc/jobs/8174088": {
-      "company": "National Information Solutions Cooperative",
-      "title": "Intern - Software Development",
-      "location": "Cedar Rapids, IA +2",
-      "url": "https://job-boards.greenhouse.io/testnisc/jobs/8174088",
-      "section": "Other",
-      "source": "SpeedyApply - USA Internships",
+      "company": "\u21b3",
+      "title": "Software Development Intern",
+      "location": "Lake St Louis, MOMandan, NDCedar Rapids, IA",
+      "url": "https://job-boards.greenhouse.io/testnisc/jobs/8174088?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
       "first_seen": "2026-09-03T14:55:39Z"
     },
     "id:e4325b98d92bf1c3ebb8": {
@@ -33901,7 +33901,7 @@
       "company": "National Information Solutions Cooperative",
       "title": "Intern - Software Development",
       "location": "Cedar Rapids, IA +2",
-      "url": "https://job-boards.greenhouse.io/testnisc/jobs/8174088",
+      "url": "https://job-boards.greenhouse.io/nisc/jobs/8092699",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-03T14:55:39Z"
@@ -34045,7 +34045,7 @@
       "company": "GPC",
       "title": "Software Engineer - QA Analyst Intern",
       "location": "Birmingham, AL",
-      "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029236",
+      "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-04T14:52:33Z"
@@ -36673,7 +36673,7 @@
       "company": "Cadence",
       "title": "Graduate Student Intern - Software Engineering",
       "location": "Austin, TX",
-      "url": "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56028-1",
+      "url": "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56029-2",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-05T13:47:06Z"
@@ -36781,7 +36781,7 @@
       "company": "McKesson",
       "title": "Software Engineer Intern - Summer 2027",
       "location": "Longmont, CO",
-      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/external_careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/external_careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-05T13:47:06Z"
@@ -38779,7 +38779,7 @@
       "company": "CIBC",
       "title": "2027 Summer Intern - Software Engineering",
       "location": "Chicago, IL",
-      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-06T14:02:47Z"
@@ -42908,7 +42908,7 @@
     },
     "url:https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987": {
       "company": "Semgrep",
-      "title": "Software Engineer Intern - Cloud Platform",
+      "title": "Software Engineer Intern",
       "location": "San Francisco, CA",
       "url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987",
       "section": "Other",
@@ -45834,8 +45834,8 @@
     "id:8c2ff5cb9daf0150db59": {
       "company": "Northrop Grumman",
       "title": "2027 Intern Software Engineer",
-      "location": "San Diego, CA +5",
-      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250150",
+      "location": "San Diego, CA +3",
+      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250669",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-11T14:55:48Z"
@@ -46222,7 +46222,7 @@
       "company": "Wellmark",
       "title": "Software Engineer Intern",
       "location": "Des Moines, IA",
-      "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148915793?utm_source=Simplify&ref=Simplify",
+      "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000149684819?utm_source=Simplify&ref=Simplify",
       "section": "\ud83d\udcbb Software Engineering Internship Roles",
       "source": "SimplifyJobs - Summer 2027 Internships",
       "first_seen": "2026-09-11T14:55:48Z"
@@ -46465,10 +46465,10 @@
       "company": "\u21b3",
       "title": "Software Engineer Intern",
       "location": "State College, PA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01869001?utm_source=Simplify&ref=Simplify",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01871987?utm_source=Simplify&ref=Simplify",
       "section": "\ud83d\udcbb Software Engineering Internship Roles",
       "source": "SimplifyJobs - Summer 2027 Internships",
-      "first_seen": "2026-09-11T14:55:48Z"
+      "first_seen": "2026-09-15T15:29:47Z"
     },
     "url:https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/atlanta-ga/ai-automation-intern---summer-2027_r202682342": {
       "company": "Cox",
@@ -47551,7 +47551,7 @@
       "first_seen": "2026-09-11T14:55:48Z"
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-mn-burnsville-west--14300-judicial-rd--west-bldg/software-engineering-intern--summer-2027-_01872977": {
-      "company": "\u21b3",
+      "company": "RTX",
       "title": "Software Engineering Intern",
       "location": "Burnsville, MN",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--Summer-2027-_01872977?utm_source=Simplify&ref=Simplify",
@@ -49632,8 +49632,8 @@
     "id:8e5e76f231eadb618616": {
       "company": "Fidelity Investments",
       "title": "Co-op - Software Engineer",
-      "location": "Boston, MA +1",
-      "url": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-op--Software-Engineer_2135230",
+      "location": "Boston, MA",
+      "url": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-op--Software-Engineer_2135200",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-13T14:51:50Z"
@@ -49804,7 +49804,7 @@
       "company": "The Toro Company",
       "title": "Embedded Software Engineering Intern - The Toro Company",
       "location": "Bloomington, MN",
-      "url": "https://ttc.wd1.myworkdayjobs.com/en-US/toro_external_careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114",
+      "url": "https://ttc.wd1.myworkdayjobs.com/en-US/toro_external_careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17125",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-13T14:51:50Z"
@@ -49990,12 +49990,12 @@
       "first_seen": "2026-09-14T16:53:14Z"
     },
     "url:https://boards.greenhouse.io/robinhood/jobs/8142959": {
-      "company": "\ud83d\udd25 Robinhood",
-      "title": "Software Engineer Intern - iOS - Summer 2027",
-      "location": "Menlo Park, CANYC",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?utm_source=Simplify&ref=Simplify",
-      "section": "\ud83d\udcbb Software Engineering Internship Roles",
-      "source": "SimplifyJobs - Summer 2027 Internships",
+      "company": "Robinhood",
+      "title": "Software Engineering Intern - iOS - Summer 2027",
+      "location": "Menlo Park, CA +1",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-14T16:53:14Z"
     },
     "id:41272355ed5c0b10db7f": {
@@ -50026,12 +50026,12 @@
       "first_seen": "2026-09-14T16:53:14Z"
     },
     "url:https://boards.greenhouse.io/robinhood/jobs/8142963": {
-      "company": "\u21b3",
-      "title": "Software Engineer Intern - Web",
-      "location": "Menlo Park, CANYC",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?utm_source=Simplify&ref=Simplify",
-      "section": "\ud83d\udcbb Software Engineering Internship Roles",
-      "source": "SimplifyJobs - Summer 2027 Internships",
+      "company": "Robinhood",
+      "title": "Software Engineering Intern - Web - Summer 2027",
+      "location": "Menlo Park, CA +1",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-14T16:53:14Z"
     },
     "id:0cfc4228d5d73c165e91": {
@@ -50044,12 +50044,12 @@
       "first_seen": "2026-09-14T16:53:14Z"
     },
     "url:https://boards.greenhouse.io/robinhood/jobs/8142961": {
-      "company": "\u21b3",
-      "title": "Software Engineer Intern - Android - Summer 2027",
-      "location": "Menlo Park, CANYC",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?utm_source=Simplify&ref=Simplify",
-      "section": "\ud83d\udcbb Software Engineering Internship Roles",
-      "source": "SimplifyJobs - Summer 2027 Internships",
+      "company": "Robinhood",
+      "title": "Software Engineering Intern - Android - Summer 2027",
+      "location": "Menlo Park, CA +1",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-14T16:53:14Z"
     },
     "id:08ba17885ec7f7310a2f": {
@@ -50746,12 +50746,12 @@
       "first_seen": "2026-09-15T15:29:47Z"
     },
     "url:https://job-boards.greenhouse.io/doordashusa/jobs/8171041": {
-      "company": "\ud83d\udd25 DoorDash",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "5 locationsSeattle, WASFLANYCSunnyvale, CA",
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041?utm_source=Simplify&ref=Simplify",
-      "section": "\ud83d\udcbb Software Engineering Internship Roles",
-      "source": "SimplifyJobs - Summer 2027 Internships",
+      "company": "DoorDash",
+      "title": "Software Engineer - Intern - Summer 2027 - US",
+      "location": "San Francisco, CA +4",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
+      "section": "FAANG+",
+      "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-15T15:29:47Z"
     },
     "id:49147e8f9d6d5f637213": {
@@ -50800,7 +50800,7 @@
       "first_seen": "2026-09-15T15:29:47Z"
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-pa-state-college-5a--302-science-park-rd--bldg-5a/software-engineering-intern--summer-2027-_01871987": {
-      "company": "RTX",
+      "company": "\u21b3",
       "title": "Software Engineer Intern",
       "location": "State College, PA",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01871987?utm_source=Simplify&ref=Simplify",
@@ -50866,13 +50866,13 @@
       "company": "CAI",
       "title": "Software Developer Intern",
       "location": "Pennsylvania",
-      "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8451?utm_source=Simplify&ref=Simplify",
+      "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8462?utm_source=Simplify&ref=Simplify",
       "section": "\ud83d\udcbb Software Engineering Internship Roles",
       "source": "SimplifyJobs - Summer 2027 Internships",
       "first_seen": "2026-09-15T15:29:47Z"
     },
     "url:https://cai.wd5.myworkdayjobs.com/computer_aid/job/pa-client-state/software-developer-intern_r8462": {
-      "company": "\u21b3",
+      "company": "CAI",
       "title": "Software Developer Intern",
       "location": "Pennsylvania",
       "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8462?utm_source=Simplify&ref=Simplify",
@@ -51089,11 +51089,11 @@
     },
     "url:https://www.equipmentshare.com/careers/openings": {
       "company": "EquipmentShare",
-      "title": "Software Engineer Intern",
+      "title": "Intern: Software Engineer",
       "location": "Columbia, MO",
-      "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188926&utm_source=Simplify&ref=Simplify",
-      "section": "\ud83d\udcbb Software Engineering Internship Roles",
-      "source": "SimplifyJobs - Summer 2027 Internships",
+      "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188802",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-15T15:29:47Z"
     },
     "id:b1fe529191df82f4df37": {
@@ -51142,12 +51142,12 @@
       "first_seen": "2026-09-15T15:29:47Z"
     },
     "url:https://boards.greenhouse.io/figma/jobs/6143238004": {
-      "company": "\u21b3",
-      "title": "Software Engineer Intern",
-      "location": "SFNYC",
-      "url": "https://boards.greenhouse.io/figma/jobs/6143238004?utm_source=Simplify&ref=Simplify",
-      "section": "\ud83d\udcbb Software Engineering Internship Roles",
-      "source": "SimplifyJobs - Summer 2027 Internships",
+      "company": "Figma",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "San Francisco, CA +1",
+      "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+      "section": "FAANG+",
+      "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-15T15:29:47Z"
     },
     "id:9326d7046063660caaf9": {
@@ -51196,12 +51196,12 @@
       "first_seen": "2026-09-14T16:53:14Z"
     },
     "url:https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/software-engineer-intern---ai---cloud--graduate-master-s-_r22546": {
-      "company": "Wex",
-      "title": "Software Engineer Intern - AI & Cloud \ud83c\udf93",
-      "location": "Remote in USA",
-      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546?utm_source=Simplify&ref=Simplify",
-      "section": "\ud83d\udcbb Software Engineering Internship Roles",
-      "source": "SimplifyJobs - Summer 2027 Internships",
+      "company": "WEX",
+      "title": "Software Engineer Intern - AI & Cloud - Graduate/Master\u2019s",
+      "location": "Remote - USA",
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-15T15:29:47Z"
     },
     "id:f27898e9926ccb560585": {
@@ -51232,12 +51232,12 @@
       "first_seen": "2026-09-15T15:29:47Z"
     },
     "url:https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/backend-software-engineer-intern---java---ai--master-s-_r22547": {
-      "company": "\u21b3",
-      "title": "Backend Software Engineer Intern - Java & AI - Master's \ud83c\udf93",
-      "location": "Remote in USA",
-      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547?utm_source=Simplify&ref=Simplify",
-      "section": "\ud83d\udcbb Software Engineering Internship Roles",
-      "source": "SimplifyJobs - Summer 2027 Internships",
+      "company": "WEX",
+      "title": "Backend Software Engineer Intern - Java & AI - Master\u2019s",
+      "location": "Remote - USA",
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-15T15:29:47Z"
     },
     "id:ec6e381a6d71c3da983a": {
@@ -51250,12 +51250,12 @@
       "first_seen": "2026-09-15T15:29:47Z"
     },
     "url:https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/backend-software-engineer-intern---c---cloud-security---ai--undergraduate-_r22589": {
-      "company": "\u21b3",
-      "title": "Backend Software Engineer Intern - Cloud Security & AI - Undergraduate",
-      "location": "Remote in USA",
-      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589?utm_source=Simplify&ref=Simplify",
-      "section": "\ud83d\udcbb Software Engineering Internship Roles",
-      "source": "SimplifyJobs - Summer 2027 Internships",
+      "company": "WEX",
+      "title": "Backend Software Engineer Intern - C# - Cloud Security & AI - Undergraduate",
+      "location": "Remote - USA",
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-15T15:29:47Z"
     },
     "id:2c4c03a02765a51376ac": {
@@ -52258,7 +52258,7 @@
       "first_seen": "2026-09-15T15:29:47Z"
     },
     "url:https://gnw.wd1.myworkdayjobs.com/gnw/job/raleigh-north-carolina/commercial-analytics-and-optimization-team-intern_req-260363-1": {
-      "company": "\u21b3",
+      "company": "Genworth Financial",
       "title": "Commercial Analytics and Optimization Team Intern",
       "location": "Raleigh, NC",
       "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Commercial-Analytics-and-Optimization-Team-Intern_REQ-260363-1?utm_source=Simplify&ref=Simplify",
@@ -53003,6 +53003,2166 @@
       "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "source": "SimplifyJobs - Summer 2027 Internships",
       "first_seen": "2026-09-15T15:29:47Z"
+    },
+    "id:9eee3344c27cddb55808": {
+      "company": "DoorDash",
+      "title": "Software Engineer - Intern - Summer 2027 - US",
+      "location": "San Francisco, CA +4",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
+      "section": "FAANG+",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-15T15:29:47Z"
+    },
+    "id:160ffc043d0a07f8fd5d": {
+      "company": "Figma",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "San Francisco, CA +1",
+      "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+      "section": "FAANG+",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-15T15:29:47Z"
+    },
+    "id:6812f2a1cdc692e3beb2": {
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern",
+      "location": "Washington, DC +1",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+      "section": "FAANG+",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-08-20T11:31:30Z"
+    },
+    "url:https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e": {
+      "company": "Base Power Company",
+      "title": "Quantitative Developer Intern",
+      "location": "Austin, TX",
+      "url": "https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:5832c5cefb3350a57186": {
+      "company": "Base Power Company",
+      "title": "Quantitative Developer Intern",
+      "location": "Austin, TX",
+      "url": "https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:http://deka.applytojob.com/apply/ulnhn2xovg/software-engineering-coop-spring-2027": {
+      "company": "DEKA Research & Development",
+      "title": "Software Engineering Co-Op- Spring 2027",
+      "location": "Manchester, NH",
+      "url": "http://deka.applytojob.com/apply/ulNhn2xOvG/Software-Engineering-CoOp-Spring-2027",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:ab979b855434da801d83": {
+      "company": "DEKA Research & Development",
+      "title": "Software Engineering Co-Op- Spring 2027",
+      "location": "Manchester, NH",
+      "url": "http://deka.applytojob.com/apply/ulNhn2xOvG/Software-Engineering-CoOp-Spring-2027",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://gsk-us-earlytalent.icims.com/jobs/11013/winter-co-op-web-app-developer/job": {
+      "company": "GSK Internships & Co-ops powered by Atrium",
+      "title": "Winter Co-op/Web App Developer",
+      "location": "Cambridge, MA",
+      "url": "https://gsk-us-earlytalent.icims.com/jobs/11013/winter-co-op-web-app-developer/job",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:f9b65aac7abc83136a86": {
+      "company": "GSK Internships & Co-ops powered by Atrium",
+      "title": "Winter Co-op/Web App Developer",
+      "location": "Cambridge, MA",
+      "url": "https://gsk-us-earlytalent.icims.com/jobs/11013/winter-co-op-web-app-developer/job",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.ashbyhq.com/opengov/d036cfd6-5a01-41ed-af73-78fc32854849": {
+      "company": "OpenGov",
+      "title": "Intern - Software Engineer",
+      "location": "Atlanta, GA",
+      "url": "https://jobs.ashbyhq.com/opengov/d036cfd6-5a01-41ed-af73-78fc32854849",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:8cc3ae2fece108ea968d": {
+      "company": "OpenGov",
+      "title": "Intern - Software Engineer",
+      "location": "Atlanta, GA",
+      "url": "https://jobs.ashbyhq.com/opengov/d036cfd6-5a01-41ed-af73-78fc32854849",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08": {
+      "company": "OpenGov",
+      "title": "Intern - Software Engineer",
+      "location": "Boston, MA",
+      "url": "https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:62a98838a18b535520ca": {
+      "company": "OpenGov",
+      "title": "Intern - Software Engineer",
+      "location": "Boston, MA",
+      "url": "https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:45c5f596679d6d86cdd3": {
+      "company": "Semgrep",
+      "title": "Software Engineer Intern",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-10T14:55:45Z"
+    },
+    "url:https://job-boards.greenhouse.io/singlestore/jobs/8154399": {
+      "company": "SingleStore",
+      "title": "Software Engineer Intern",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:5e0303eefa17f6b6c12b": {
+      "company": "SingleStore",
+      "title": "Software Engineer Intern",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.ashbyhq.com/superhuman%20platform%20inc/e6b917b1-325a-47d0-b267-b279b0efdad0": {
+      "company": "Superhuman",
+      "title": "Software Engineering Intern - Summer 2027",
+      "location": "San Francisco, CA +2",
+      "url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/e6b917b1-325a-47d0-b267-b279b0efdad0",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:94ec70d338f733067bee": {
+      "company": "Superhuman",
+      "title": "Software Engineering Intern - Summer 2027",
+      "location": "San Francisco, CA +2",
+      "url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/e6b917b1-325a-47d0-b267-b279b0efdad0",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:e9ebb16b62198ea5fb29": {
+      "company": "Waymo",
+      "title": "2027 Summer Intern - BS/MS - Software Engineering - Commercialization",
+      "location": "San Francisco, CA +1",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-01T15:26:03Z"
+    },
+    "url:https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e": {
+      "company": "Acron Aviation",
+      "title": "Software Engineer Intern - Phoenix Site",
+      "location": "Phoenix, AZ",
+      "url": "https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:710563cc7d87d8208cff": {
+      "company": "Acron Aviation",
+      "title": "Software Engineer Intern - Phoenix Site",
+      "location": "Phoenix, AZ",
+      "url": "https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:49f100cc05b586543e63": {
+      "company": "Base Power Company",
+      "title": "Software Engineering Intern",
+      "location": "Austin, TX",
+      "url": "https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-08-14T11:49:02Z"
+    },
+    "id:19282ec0f33c4131010a": {
+      "company": "Base Power Company",
+      "title": "Firmware Engineering Intern",
+      "location": "Austin, TX",
+      "url": "https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-08-14T11:49:02Z"
+    },
+    "url:https://tihinsurance.wd1.myworkdayjobs.com/en-us/crc_careers/job/dallas-tx---12377-merit-dr/internship---software-engineering_r0000003172": {
+      "company": "CRC Group",
+      "title": "Internship - Software Engineering",
+      "location": "Dallas, TX",
+      "url": "https://tihinsurance.wd1.myworkdayjobs.com/en-US/crc_careers/job/Dallas-TX---12377-Merit-Dr/Internship---Software-Engineering_R0000003172",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:f00fa93254aaafc712c5": {
+      "company": "CRC Group",
+      "title": "Internship - Software Engineering",
+      "location": "Dallas, TX",
+      "url": "https://tihinsurance.wd1.myworkdayjobs.com/en-US/crc_careers/job/Dallas-TX---12377-Merit-Dr/Internship---Software-Engineering_R0000003172",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328": {
+      "company": "Cyvl",
+      "title": "Engineering Intern - Software - SWE/Machine Learning - ML",
+      "location": "Boston, MA +1",
+      "url": "https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:fe7e9286d2c7e54ba434": {
+      "company": "Cyvl",
+      "title": "Engineering Intern - Software - SWE/Machine Learning - ML",
+      "location": "Boston, MA +1",
+      "url": "https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://gnw.wd1.myworkdayjobs.com/en-us/enact_mi/job/raleigh-north-carolina/software-engineering-intern_req-260367": {
+      "company": "Enact",
+      "title": "Software Engineering Intern",
+      "location": "Raleigh, NC",
+      "url": "https://gnw.wd1.myworkdayjobs.com/en-US/enact_mi/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:a87f2efc5b7650796539": {
+      "company": "Enact",
+      "title": "Software Engineering Intern",
+      "location": "Raleigh, NC",
+      "url": "https://gnw.wd1.myworkdayjobs.com/en-US/enact_mi/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:275613e8914cfc9eed46": {
+      "company": "EquipmentShare",
+      "title": "Intern: Software Engineer",
+      "location": "Columbia, MO",
+      "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188802",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-15T15:29:47Z"
+    },
+    "url:https://gnw.wd1.myworkdayjobs.com/en-us/gnw/job/raleigh-north-carolina/software-engineering-intern_req-260367-1": {
+      "company": "Genworth",
+      "title": "Software Engineering Intern",
+      "location": "Raleigh, NC",
+      "url": "https://gnw.wd1.myworkdayjobs.com/en-US/gnw/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367-1",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:d42347596b8f060fc6e4": {
+      "company": "Genworth",
+      "title": "Software Engineering Intern",
+      "location": "Raleigh, NC",
+      "url": "https://gnw.wd1.myworkdayjobs.com/en-US/gnw/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367-1",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://labcorp.wd1.myworkdayjobs.com/en-us/external/job/durham-nc/intern---software-developer_2632330": {
+      "company": "Labcorp",
+      "title": "Intern - Software Developer",
+      "location": "Durham, NC",
+      "url": "https://labcorp.wd1.myworkdayjobs.com/en-US/external/job/Durham-NC/Intern---Software-Developer_2632330",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:4ddc51a7d1b1fc92c4e4": {
+      "company": "Labcorp",
+      "title": "Intern - Software Developer",
+      "location": "Durham, NC",
+      "url": "https://labcorp.wd1.myworkdayjobs.com/en-US/external/job/Durham-NC/Intern---Software-Developer_2632330",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://micron.wd1.myworkdayjobs.com/en-us/external/job/boise-id---main-site/intern---it-software-engineer_jr111582": {
+      "company": "Micron Technology",
+      "title": "Intern - IT Software Engineer",
+      "location": "Boise, ID",
+      "url": "https://micron.wd1.myworkdayjobs.com/en-US/external/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:37290103f3fa548cb274": {
+      "company": "Micron Technology",
+      "title": "Intern - IT Software Engineer",
+      "location": "Boise, ID",
+      "url": "https://micron.wd1.myworkdayjobs.com/en-US/external/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-california-san-diego/xmlname-2027-intern-software-engineer_r10250669": {
+      "company": "Northrop Grumman",
+      "title": "2027 Intern Software Engineer",
+      "location": "San Diego, CA +3",
+      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250669",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-11T14:55:48Z"
+    },
+    "url:https://oshkoshcorporation.wd5.myworkdayjobs.com/en-us/oshkosh/job/huntersville-north-carolina-united-states/software-engineer-intern---summer-2027_r50321": {
+      "company": "Oshkosh",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Huntersville, NC",
+      "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/oshkosh/job/Huntersville-North-Carolina-United-States/Software-Engineer-Intern---Summer-2027_R50321",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:5549a5128f362d2357ad": {
+      "company": "Oshkosh",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Huntersville, NC",
+      "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/oshkosh/job/Huntersville-North-Carolina-United-States/Software-Engineer-Intern---Summer-2027_R50321",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:ba7315d19a4c2e4b5e61": {
+      "company": "Philips",
+      "title": "Co-op - Software System Engineering - Plymouth - MN - January 2027",
+      "location": "Plymouth, MN",
+      "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-08-26T11:34:04Z"
+    },
+    "url:https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-or-wilsonville-596--27500-sw-parkway-ave--bldg-596/software-engineering-co-op--summer-fall-2027-_01873970": {
+      "company": "Raytheon",
+      "title": "Software Engineering Co-op - Summer/Fall 2027",
+      "location": "Wilsonville, OR",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01873970",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:20c6689be548d19f8dba": {
+      "company": "Raytheon",
+      "title": "Software Engineering Co-op - Summer/Fall 2027",
+      "location": "Wilsonville, OR",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01873970",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-in-indianapolis-206--3939-priority-way-s-dr--priority-bldg-6/software-engineering-intern--summer-2027-_01874145": {
+      "company": "Raytheon",
+      "title": "Software Engineering Intern - Summer 2027",
+      "location": "Indianapolis, IN",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01874145",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:fb918b4e4875243d809c": {
+      "company": "Raytheon",
+      "title": "Software Engineering Intern - Summer 2027",
+      "location": "Indianapolis, IN",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01874145",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:d9f4f5b50204c301d6c5": {
+      "company": "Robinhood",
+      "title": "Software Engineering Intern - Web - Summer 2027",
+      "location": "Menlo Park, CA +1",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-14T16:53:14Z"
+    },
+    "id:a2be9e0df3b3579ee22e": {
+      "company": "Robinhood",
+      "title": "Software Engineering Intern - iOS - Summer 2027",
+      "location": "Menlo Park, CA +1",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-14T16:53:14Z"
+    },
+    "id:f7a1ac57739ced7dd92c": {
+      "company": "Robinhood",
+      "title": "Software Engineering Intern - Android - Summer 2027",
+      "location": "Menlo Park, CA +1",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-14T16:53:14Z"
+    },
+    "url:https://viavisolutions.wd1.myworkdayjobs.com/en-us/careers/job/germantown-md-usa/software-engineering-co-op_260005140-1": {
+      "company": "VIAVI",
+      "title": "Software Engineering Co-Op",
+      "location": "Germantown, MD",
+      "url": "https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:37d3ebb15f256623de5a": {
+      "company": "VIAVI",
+      "title": "Software Engineering Co-Op",
+      "location": "Germantown, MD",
+      "url": "https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_260005140-1",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:7db05fadd2fc44c882da": {
+      "company": "WEX",
+      "title": "Backend Software Engineer Intern - C# - Cloud Security & AI - Undergraduate",
+      "location": "Remote - USA",
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-15T15:29:47Z"
+    },
+    "url:https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/backend-software-engineer-intern---c--java---ai-workflows--undergraduate-_r22586": {
+      "company": "WEX",
+      "title": "Backend Software Engineer Intern - C#/Java & AI Workflows - Undergraduate",
+      "location": "Remote - USA",
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:c53d09060ef9357f3499": {
+      "company": "WEX",
+      "title": "Backend Software Engineer Intern - C#/Java & AI Workflows - Undergraduate",
+      "location": "Remote - USA",
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/devops---backend-software-engineer-intern--undergraduate-_r22584": {
+      "company": "WEX",
+      "title": "DevOps & Backend Software Engineer Intern - Undergraduate",
+      "location": "Remote - USA",
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:933874a85793c17d990c": {
+      "company": "WEX",
+      "title": "DevOps & Backend Software Engineer Intern - Undergraduate",
+      "location": "Remote - USA",
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:dd493950ad138d0691ec": {
+      "company": "WEX",
+      "title": "Backend Software Engineer Intern - Java & AI - Master\u2019s",
+      "location": "Remote - USA",
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-15T15:29:47Z"
+    },
+    "id:a8eaddf93c149129f037": {
+      "company": "WEX",
+      "title": "Software Engineer Intern - AI & Cloud - Graduate/Master\u2019s",
+      "location": "Remote - USA",
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-15T15:29:47Z"
+    },
+    "url:https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178": {
+      "company": "SEP",
+      "title": "Software Engineering Intern - Summer 2027 - In person",
+      "location": "Westfield, IN",
+      "url": "https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:38dd377b16ea65ca2810": {
+      "company": "SEP",
+      "title": "Software Engineering Intern - Summer 2027 - In person",
+      "location": "Westfield, IN",
+      "url": "https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://job-boards.greenhouse.io/quantiq/jobs/4287936009": {
+      "company": "Quantiq",
+      "title": "Software Developer Internship - Summer 2027",
+      "location": "Austin, TX",
+      "url": "https://job-boards.greenhouse.io/quantiq/jobs/4287936009",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:f877709059609586cd82": {
+      "company": "Quantiq",
+      "title": "Software Developer Internship - Summer 2027",
+      "location": "Austin, TX",
+      "url": "https://job-boards.greenhouse.io/quantiq/jobs/4287936009",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.ashbyhq.com/superhuman%20platform%20inc/da5e147c-f957-4ba1-9712-1b2dde377cb0": {
+      "company": "Superhuman",
+      "title": "Software Engineer - Early Career",
+      "location": "San Francisco, CA +1",
+      "url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/da5e147c-f957-4ba1-9712-1b2dde377cb0",
+      "section": "Other",
+      "source": "SpeedyApply - New Grad USA",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:6295256a8e206e5718cc": {
+      "company": "Superhuman",
+      "title": "Software Engineer - Early Career",
+      "location": "San Francisco, CA +1",
+      "url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/da5e147c-f957-4ba1-9712-1b2dde377cb0",
+      "section": "Other",
+      "source": "SpeedyApply - New Grad USA",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://us-erac.icims.com/jobs/566721/job": {
+      "company": "Enterprise Holdings",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "St. Louis, MO",
+      "url": "https://us-erac.icims.com/jobs/566721/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:a04053cff0a7eed5f976": {
+      "company": "Enterprise Holdings",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "St. Louis, MO",
+      "url": "https://us-erac.icims.com/jobs/566721/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4/application": {
+      "company": "Bedrock Robotics",
+      "title": "Software Engineer Intern - Fleet Platform",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:00e5edd26398a0de00ff": {
+      "company": "Bedrock Robotics",
+      "title": "Software Engineer Intern - Fleet Platform",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082/application": {
+      "company": "Gecko Robotics",
+      "title": "Full Stack Software Engineer Intern",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:8c9caa40025c46f1e41b": {
+      "company": "Gecko Robotics",
+      "title": "Full Stack Software Engineer Intern",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://careers-gdeb.icims.com/jobs/20341/job": {
+      "company": "General Dynamics",
+      "title": "Information Technology Intern - Software Engineering - Computer Science",
+      "location": "5 locationsNewport, RINew London, CTNorth Kingstown, RINorth Stonington, CTGroton, CT",
+      "url": "https://careers-gdeb.icims.com/jobs/20341/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:fbd5fd0ce0e3921f8087": {
+      "company": "General Dynamics",
+      "title": "Information Technology Intern - Software Engineering - Computer Science",
+      "location": "5 locationsNewport, RINew London, CTNorth Kingstown, RINorth Stonington, CTGroton, CT",
+      "url": "https://careers-gdeb.icims.com/jobs/20341/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://apply.workable.com/raveaerospace/j/739753c003/apply": {
+      "company": "RAVE Aerospace",
+      "title": "Software Engineer Intern",
+      "location": "Laramie, WY",
+      "url": "https://apply.workable.com/raveaerospace/j/739753C003/apply?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:530966f71eb129e69da7": {
+      "company": "RAVE Aerospace",
+      "title": "Software Engineer Intern",
+      "location": "Laramie, WY",
+      "url": "https://apply.workable.com/raveaerospace/j/739753C003/apply?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-marlborough-ma2--1001-boston-post-rd--bldg-2/software-engineer-intern--summer-2027-_01875743": {
+      "company": "RTX",
+      "title": "Software Engineer Intern",
+      "location": "Marlborough, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Intern--Summer-2027-_01875743?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:e8a438390b12cc674532": {
+      "company": "RTX",
+      "title": "Software Engineer Intern",
+      "location": "Marlborough, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Intern--Summer-2027-_01875743?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://liveoakbancshares.wd1.myworkdayjobs.com/en-us/live_oak/job/wilmington-nc/summer-2027-intern--architecture-engineering_r-002630": {
+      "company": "Live Oak Bank",
+      "title": "Architecture/Engineering Intern",
+      "location": "Wilmington, NC",
+      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:ca5ed4f54c58c19ed5ac": {
+      "company": "Live Oak Bank",
+      "title": "Architecture/Engineering Intern",
+      "location": "Wilmington, NC",
+      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://liveoakbancshares.wd1.myworkdayjobs.com/en-us/live_oak/job/wilmington-nc/summer-2027-intern--ai-enablement---forward-deployed-engineering_r-002624": {
+      "company": "\u21b3",
+      "title": "Artificial Intelligence Enablement & Forward-Deployed Engineering Intern",
+      "location": "Wilmington, NC",
+      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:da0c54d5b1038531d7ca": {
+      "company": "\u21b3",
+      "title": "Artificial Intelligence Enablement & Forward-Deployed Engineering Intern",
+      "location": "Wilmington, NC",
+      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://basspro.wd1.myworkdayjobs.com/careers/job/springfield-mo-bass-pro-shops-base-camp/it-developer-intern-summer-2027_r267441-1": {
+      "company": "Bass Pro Shops",
+      "title": "IT Developer Intern",
+      "location": "Springfield, MO",
+      "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:3af6486149c2af3ceb70": {
+      "company": "Bass Pro Shops",
+      "title": "IT Developer Intern",
+      "location": "Springfield, MO",
+      "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002": {
+      "company": "\ud83d\udd25 Duolingo",
+      "title": "Software Engineer Intern - Thrive",
+      "location": "Pittsburgh, PA",
+      "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:5673e4caa11ba27633b4": {
+      "company": "\ud83d\udd25 Duolingo",
+      "title": "Software Engineer Intern - Thrive",
+      "location": "Pittsburgh, PA",
+      "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://careers.duolingo.com/jobs/8805925002": {
+      "company": "\u21b3",
+      "title": "Software Engineer Intern",
+      "location": "Seattle, WAPittsburgh, PANYC",
+      "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:5a0535e2dbeec0f7e9a7": {
+      "company": "\u21b3",
+      "title": "Software Engineer Intern",
+      "location": "Seattle, WAPittsburgh, PANYC",
+      "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://careers.duolingo.com/jobs/8806114002": {
+      "company": "\u21b3",
+      "title": "Software Engineer Intern - Thrive",
+      "location": "Pittsburgh, PA",
+      "url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:6c2367fd3228262f739e": {
+      "company": "\u21b3",
+      "title": "Software Engineer Intern - Thrive",
+      "location": "Pittsburgh, PA",
+      "url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.jobvite.com/tylertech/job/oqqjafwj": {
+      "company": "Tyler Technologies",
+      "title": "Software Development Intern - Summer 2027",
+      "location": "Lakewood, CO",
+      "url": "https://jobs.jobvite.com/tylertech/job/oqQJAfwj?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:2fbf23030ac6c8dba163": {
+      "company": "Tyler Technologies",
+      "title": "Software Development Intern - Summer 2027",
+      "location": "Lakewood, CO",
+      "url": "https://jobs.jobvite.com/tylertech/job/oqQJAfwj?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7": {
+      "company": "APEX Analytix",
+      "title": "Automation Developer Intern",
+      "location": "Greensboro, NC",
+      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:bfab6932546c22138932": {
+      "company": "APEX Analytix",
+      "title": "Automation Developer Intern",
+      "location": "Greensboro, NC",
+      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://lunaroutpost.bamboohr.com/careers/398": {
+      "company": "Lunar Outpost",
+      "title": "Ground Software Engineer Intern - Summer 2027",
+      "location": "Golden, CO",
+      "url": "https://lunaroutpost.bamboohr.com/careers/398/?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:b1cdcdc10c069fc4722e": {
+      "company": "Lunar Outpost",
+      "title": "Ground Software Engineer Intern - Summer 2027",
+      "location": "Golden, CO",
+      "url": "https://lunaroutpost.bamboohr.com/careers/398/?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.jobvite.com/elire/job/om5lafww": {
+      "company": "Elire",
+      "title": "AI Software Developer Intern - Multiple Teams",
+      "location": "Remote in USAMinneapolis, MN",
+      "url": "https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:d7d67b659a243d4a62f1": {
+      "company": "Elire",
+      "title": "AI Software Developer Intern - Multiple Teams",
+      "location": "Remote in USAMinneapolis, MN",
+      "url": "https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://egay.fa.us6.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_4001/job/44449": {
+      "company": "NOV",
+      "title": "Software Engineer Intern - Rig Technologies",
+      "location": "Houston, TX",
+      "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44449?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:4666f9eabbbd50ef3df1": {
+      "company": "NOV",
+      "title": "Software Engineer Intern - Rig Technologies",
+      "location": "Houston, TX",
+      "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44449?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://job-boards.greenhouse.io/nisc/jobs/8204086": {
+      "company": "National Information Solutions Cooperative",
+      "title": "Software Development Intern - AI Development",
+      "location": "Lake St Louis, MOCedar Rapids, IA",
+      "url": "https://job-boards.greenhouse.io/nisc/jobs/8204086?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:bae52d18d187c2eae43f": {
+      "company": "National Information Solutions Cooperative",
+      "title": "Software Development Intern - AI Development",
+      "location": "Lake St Louis, MOCedar Rapids, IA",
+      "url": "https://job-boards.greenhouse.io/nisc/jobs/8204086?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://job-boards.greenhouse.io/testnisc/jobs/8204156": {
+      "company": "\u21b3",
+      "title": "Software Development Intern - AI Development",
+      "location": "Lake St Louis, MOCedar Rapids, IA",
+      "url": "https://job-boards.greenhouse.io/testnisc/jobs/8204156?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:58b1e85d77249268f771": {
+      "company": "\u21b3",
+      "title": "Software Development Intern - AI Development",
+      "location": "Lake St Louis, MOCedar Rapids, IA",
+      "url": "https://job-boards.greenhouse.io/testnisc/jobs/8204156?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.entergy.com/job/new-orleans-student-intern-ai-summer-2027-loui/1430182400": {
+      "company": "Entergy",
+      "title": "AI Agent Development Intern",
+      "location": "New Orleans, LAThe Woodlands, TXHammond, LA",
+      "url": "https://jobs.entergy.com/job/New-Orleans-Student-Intern-AI-Summer-2027-Loui/1430182400/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:c729ded07a9b739ae3e4": {
+      "company": "Entergy",
+      "title": "AI Agent Development Intern",
+      "location": "New Orleans, LAThe Woodlands, TXHammond, LA",
+      "url": "https://jobs.entergy.com/job/New-Orleans-Student-Intern-AI-Summer-2027-Loui/1430182400/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://simventions.jibeapply.com/jobs/1631": {
+      "company": "SimVentions",
+      "title": "Software Development Intern",
+      "location": "Fredericksburg, VA",
+      "url": "https://simventions.jibeapply.com/jobs/1631?icims=1&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:29ad7ebc621b152e1def": {
+      "company": "SimVentions",
+      "title": "Software Development Intern",
+      "location": "Fredericksburg, VA",
+      "url": "https://simventions.jibeapply.com/jobs/1631?icims=1&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.smartrecruiters.com/wellmarkinc/744000149684819": {
+      "company": "Wellmark",
+      "title": "Software Engineer Intern",
+      "location": "Des Moines, IA",
+      "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000149684819?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-11T14:55:48Z"
+    },
+    "url:https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/hopkins-mn/xmlname-2027-engineering-summer-intern_2026-0025769": {
+      "company": "U.S. Bank",
+      "title": "Engineering Intern",
+      "location": "Hopkins, MN",
+      "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Summer-Intern_2026-0025769?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:cdefa74fb39437d1d9dd": {
+      "company": "U.S. Bank",
+      "title": "Engineering Intern",
+      "location": "Hopkins, MN",
+      "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Summer-Intern_2026-0025769?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-fl-st-petersburg-381bd--7401-22nd-ave-n--bldg-d/software-engineering-intern--summer-2027-_01874926": {
+      "company": "RTX",
+      "title": "Software Engineer Intern",
+      "location": "St. Petersburg, FL",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01874926?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:ed38e184168636ceddf7": {
+      "company": "RTX",
+      "title": "Software Engineer Intern",
+      "location": "St. Petersburg, FL",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01874926?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-md-annapolis-905--2551-riva-rd--bldg-905/software-engineer-intern--summer-2027-_01873556": {
+      "company": "\u21b3",
+      "title": "Software Engineer Intern",
+      "location": "Annapolis, MD",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineer-Intern--Summer-2027-_01873556?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:66584fe294a48e907968": {
+      "company": "\u21b3",
+      "title": "Software Engineer Intern",
+      "location": "Annapolis, MD",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineer-Intern--Summer-2027-_01873556?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-marlborough-ma4--1001-boston-post-rd--bldg-4/software-engineering-intern--summer-2027-_01874955": {
+      "company": "\u21b3",
+      "title": "Software Engineer Intern",
+      "location": "Marlborough, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineering-Intern--Summer-2027-_01874955?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:3c0c5d1696cfc07f0d67": {
+      "company": "\u21b3",
+      "title": "Software Engineer Intern",
+      "location": "Marlborough, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineering-Intern--Summer-2027-_01874955?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-il-rockford-p6--4747-harrison-ave--4747-harrison-ave-p6/software-engineering-co-op--summer-fall-2027-_01869928": {
+      "company": "\u21b3",
+      "title": "Software Engineering Co-op",
+      "location": "Rockford, IL",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Software-Engineering-Co-op--Summer-Fall-2027-_01869928?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:b6cc8729f681233d1a5c": {
+      "company": "\u21b3",
+      "title": "Software Engineering Co-op",
+      "location": "Rockford, IL",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Software-Engineering-Co-op--Summer-Fall-2027-_01869928?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://q2ebanking.wd5.myworkdayjobs.com/q2/job/austin-texas/xmlname-2027-summer-internship---software-engineer_req-12794": {
+      "company": "Q2",
+      "title": "Software Engineer Intern",
+      "location": "Austin, TX",
+      "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:73c4fe573318d9b3e5e7": {
+      "company": "Q2",
+      "title": "Software Engineer Intern",
+      "location": "Austin, TX",
+      "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://plastipak.wd1.myworkdayjobs.com/en-us/plastipak/job/plastipak-gbtc---plymouth-mi/software-engineering-intern---summer-2027_req24512": {
+      "company": "Plastipak",
+      "title": "Software Engineer Intern",
+      "location": "Plymouth, MI",
+      "url": "https://plastipak.wd1.myworkdayjobs.com/en-US/Plastipak/job/Plastipak-GBTC---Plymouth-MI/Software-Engineering-Intern---Summer-2027_REQ24512?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:428086ec7191ac1b3862": {
+      "company": "Plastipak",
+      "title": "Software Engineer Intern",
+      "location": "Plymouth, MI",
+      "url": "https://plastipak.wd1.myworkdayjobs.com/en-US/Plastipak/job/Plastipak-GBTC---Plymouth-MI/Software-Engineering-Intern---Summer-2027_REQ24512?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-ohio-cincinnati/xmlname-2027-cyber-software-engineer-intern---cincinnati-oh_r10249186": {
+      "company": "Northrop Grumman",
+      "title": "Cyber Software Engineer Intern",
+      "location": "Cincinnati, OH",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:4b6524d3ffc90c6ce541": {
+      "company": "Northrop Grumman",
+      "title": "Cyber Software Engineer Intern",
+      "location": "Cincinnati, OH",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://relx.wd3.myworkdayjobs.com/en-us/lexisnexislegal/job/raleigh-nc/software-engineer-internship_r118692": {
+      "company": "LexisNexis Legal & Professional",
+      "title": "Software Engineer Intern",
+      "location": "Raleigh, NC",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R118692?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:7f8dfab5c6d3ffe13244": {
+      "company": "LexisNexis Legal & Professional",
+      "title": "Software Engineer Intern",
+      "location": "Raleigh, NC",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R118692?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jj.wd5.myworkdayjobs.com/jj/job/santa-clara-california-united-states-of-america/software-engineering-intern---robotics-r-d_r-099919": {
+      "company": "Johnson & Johnson",
+      "title": "Software Engineer Intern - Robotics R&D",
+      "location": "Santa Clara, CA",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:544e42015bcbbaac18be": {
+      "company": "Johnson & Johnson",
+      "title": "Software Engineer Intern - Robotics R&D",
+      "location": "Santa Clara, CA",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806188002": {
+      "company": "\ud83d\udd25 Duolingo",
+      "title": "Associate Product Manager Intern",
+      "location": "Pittsburgh, PA",
+      "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806188002?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcf1 Product Management Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:c43406f951e512dfc9cd": {
+      "company": "\ud83d\udd25 Duolingo",
+      "title": "Associate Product Manager Intern",
+      "location": "Pittsburgh, PA",
+      "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806188002?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcf1 Product Management Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://careers.itw.com/global/en/job/jr10105": {
+      "company": "Illinois Tool Works",
+      "title": "Product Management Intern",
+      "location": "Troy, OH",
+      "url": "https://careers.itw.com/global/en/job/JR10105?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcf1 Product Management Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:8db6984d8a52ecbb9dea": {
+      "company": "Illinois Tool Works",
+      "title": "Product Management Intern",
+      "location": "Troy, OH",
+      "url": "https://careers.itw.com/global/en/job/JR10105?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcf1 Product Management Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://pwc.wd3.myworkdayjobs.com/en-us/us_entry_level_careers/job/il-rosemont/advisory-national---commercial-tech---innovation---product-management-intern---summer-2027_760527wd": {
+      "company": "PricewaterhouseCoopers (PwC)",
+      "title": "Product Management Intern - Commercial Tech & Innovation",
+      "location": "Rosemont, IL",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Advisory-National---Commercial-Tech---Innovation---Product-Management-Intern---Summer-2027_760527WD?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcf1 Product Management Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:13d8368596c11ab4da21": {
+      "company": "PricewaterhouseCoopers (PwC)",
+      "title": "Product Management Intern - Commercial Tech & Innovation",
+      "location": "Rosemont, IL",
+      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Advisory-National---Commercial-Tech---Innovation---Product-Management-Intern---Summer-2027_760527WD?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcf1 Product Management Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/product-management-mba-intern--data-center-gpu---summer-2027_jr2025670-1": {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "Product Management MBA Intern - Data Center GPU \ud83c\udf93",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcf1 Product Management Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:74f9e787fd22aa65aaee": {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "Product Management MBA Intern - Data Center GPU \ud83c\udf93",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcf1 Product Management Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://huntington.wd12.myworkdayjobs.com/hnbcareers/job/austin-tx/summer-2027-business-innovation---ai-products-intern_r0075876": {
+      "company": "Huntington Bancshares",
+      "title": "Business Innovation & AI Products Intern",
+      "location": "Austin, TXChicago, ILColumbus, OH",
+      "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Austin-TX/Summer-2027-Business-Innovation---AI-Products-Intern_R0075876?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcf1 Product Management Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:819a8b9aafd857ebe425": {
+      "company": "Huntington Bancshares",
+      "title": "Business Innovation & AI Products Intern",
+      "location": "Austin, TXChicago, ILColumbus, OH",
+      "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Austin-TX/Summer-2027-Business-Innovation---AI-Products-Intern_R0075876?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcf1 Product Management Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application": {
+      "company": "Gecko Robotics",
+      "title": "AI/Machine Learning Engineer Intern",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:f373cb95e2a5ecb2d790": {
+      "company": "Gecko Robotics",
+      "title": "AI/Machine Learning Engineer Intern",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://careers.gov2x.com/jobs/62843": {
+      "company": "V2X",
+      "title": "Artificial Intelligence Intern",
+      "location": "Indianapolis, IN",
+      "url": "https://careers.gov2x.com/jobs/62843?icims=1&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:cd90d93a472ade5983ea": {
+      "company": "V2X",
+      "title": "Artificial Intelligence Intern",
+      "location": "Indianapolis, IN",
+      "url": "https://careers.gov2x.com/jobs/62843?icims=1&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.smartrecruiters.com/wabashvalleypoweralliance/744000149873771": {
+      "company": "Wabash Valley Power Alliance",
+      "title": "Energy Efficiency & Demand Response Intern",
+      "location": "Indianapolis, IN",
+      "url": "https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149873771?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:86f78e148a9b7ed72d3d": {
+      "company": "Wabash Valley Power Alliance",
+      "title": "Energy Efficiency & Demand Response Intern",
+      "location": "Indianapolis, IN",
+      "url": "https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149873771?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.smartrecruiters.com/llnl/3743990015289136": {
+      "company": "Lawrence Livermore National Laboratory (LLNL)",
+      "title": "Data Science Undergraduate Student Intern - Summer 2027",
+      "location": "Livermore, CA",
+      "url": "https://jobs.smartrecruiters.com/LLNL/3743990015289136?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:1fca0bea2c6c3f587179": {
+      "company": "Lawrence Livermore National Laboratory (LLNL)",
+      "title": "Data Science Undergraduate Student Intern - Summer 2027",
+      "location": "Livermore, CA",
+      "url": "https://jobs.smartrecruiters.com/LLNL/3743990015289136?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53": {
+      "company": "APEX Analytix",
+      "title": "Data Science Intern",
+      "location": "Greensboro, NC",
+      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:2efca1b77c677f07e08d": {
+      "company": "APEX Analytix",
+      "title": "Data Science Intern",
+      "location": "Greensboro, NC",
+      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef": {
+      "company": "\u21b3",
+      "title": "Data Analyst Intern - Summer 2027",
+      "location": "Greensboro, NC",
+      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:32b4e1769900ec86686c": {
+      "company": "\u21b3",
+      "title": "Data Analyst Intern - Summer 2027",
+      "location": "Greensboro, NC",
+      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9": {
+      "company": "\u21b3",
+      "title": "Data Engineering Intern - Summer 2027",
+      "location": "Greensboro, NC",
+      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:89a69a2be46c079c4179": {
+      "company": "\u21b3",
+      "title": "Data Engineering Intern - Summer 2027",
+      "location": "Greensboro, NC",
+      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://lunaroutpost.bamboohr.com/careers/391": {
+      "company": "Lunar Outpost",
+      "title": "Robotics Engineer Intern",
+      "location": "Golden, CO",
+      "url": "https://lunaroutpost.bamboohr.com/careers/391/?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:b2f03820d90141b68501": {
+      "company": "Lunar Outpost",
+      "title": "Robotics Engineer Intern",
+      "location": "Golden, CO",
+      "url": "https://lunaroutpost.bamboohr.com/careers/391/?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://lunaroutpost.bamboohr.com/careers/390": {
+      "company": "\u21b3",
+      "title": "Simulation Engineering Intern",
+      "location": "Golden, CO",
+      "url": "https://lunaroutpost.bamboohr.com/careers/390/?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:f0e59ec67b9bfb9df27b": {
+      "company": "\u21b3",
+      "title": "Simulation Engineering Intern",
+      "location": "Golden, CO",
+      "url": "https://lunaroutpost.bamboohr.com/careers/390/?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.jobvite.com/elire/job/opplafwt": {
+      "company": "Elire",
+      "title": "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
+      "location": "Remote in USAMinneapolis, MN",
+      "url": "https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:34c68cb8fb213e40a75d": {
+      "company": "Elire",
+      "title": "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
+      "location": "Remote in USAMinneapolis, MN",
+      "url": "https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://uscareeropenings-alliancelaundry.icims.com/jobs/13162/job": {
+      "company": "Alliance Laundry Systems",
+      "title": "Data & Analytics Intern",
+      "location": "Ripon, WI",
+      "url": "https://uscareeropenings-alliancelaundry.icims.com/jobs/13162/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:3f4cc2e4b1efe072b86c": {
+      "company": "Alliance Laundry Systems",
+      "title": "Data & Analytics Intern",
+      "location": "Ripon, WI",
+      "url": "https://uscareeropenings-alliancelaundry.icims.com/jobs/13162/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://job-boards.greenhouse.io/testnisc/jobs/8204161": {
+      "company": "National Information Solutions Cooperative",
+      "title": "Software Development Intern - AI Development",
+      "location": "Lake St Louis, MO",
+      "url": "https://job-boards.greenhouse.io/testnisc/jobs/8204161?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:22b56e170fb6e19cabc1": {
+      "company": "National Information Solutions Cooperative",
+      "title": "Software Development Intern - AI Development",
+      "location": "Lake St Louis, MO",
+      "url": "https://job-boards.greenhouse.io/testnisc/jobs/8204161?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/denver-co-80205/data-governance--visualization-and-automation-intern_jr116628-2": {
+      "company": "Xcel Energy",
+      "title": "Data Governance, Visualization and Automation Intern - Financial Data Governance - Data Visualization",
+      "location": "Eau Claire, WIMinneapolis, MNDenver, CO",
+      "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Data-Governance--Visualization-and-Automation-Intern_JR116628-2?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:57399987b7af08835cc9": {
+      "company": "Xcel Energy",
+      "title": "Data Governance, Visualization and Automation Intern - Financial Data Governance - Data Visualization",
+      "location": "Eau Claire, WIMinneapolis, MNDenver, CO",
+      "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Data-Governance--Visualization-and-Automation-Intern_JR116628-2?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/bloomington-mn/isc-analytics-intern---the-toro-company_jr17246": {
+      "company": "The Toro Company",
+      "title": "ISC Analytics Intern",
+      "location": "Bloomington, MN",
+      "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/ISC-Analytics-Intern---The-Toro-Company_JR17246?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:f4615b49ea978b960c2c": {
+      "company": "The Toro Company",
+      "title": "ISC Analytics Intern",
+      "location": "Bloomington, MN",
+      "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/ISC-Analytics-Intern---The-Toro-Company_JR17246?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/des-moines/business-intelligence-consulting-intern---summer-2027_jr121327": {
+      "company": "RSM",
+      "title": "Business Intelligence Consulting Intern",
+      "location": "5 locationsDes Moines, IAIrvine, CADallas, TXChicago, ILDenver, CO",
+      "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Business-Intelligence-Consulting-Intern---Summer-2027_JR121327?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:6ea832b3f1e54c70bbd7": {
+      "company": "RSM",
+      "title": "Business Intelligence Consulting Intern",
+      "location": "5 locationsDes Moines, IAIrvine, CADallas, TXChicago, ILDenver, CO",
+      "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Business-Intelligence-Consulting-Intern---Summer-2027_JR121327?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://q2ebanking.wd5.myworkdayjobs.com/q2/job/austin-texas/xmlname-2027-summer-internship---data-science_req-12796": {
+      "company": "Q2",
+      "title": "Data Science Intern",
+      "location": "Austin, TX",
+      "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12796?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:8920ac3a76a33a31f965": {
+      "company": "Q2",
+      "title": "Data Science Intern",
+      "location": "Austin, TX",
+      "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12796?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://q2ebanking.wd5.myworkdayjobs.com/q2/job/austin-texas/xmlname-2027-summer-internship---machine-learning-engineer_req-12797": {
+      "company": "\u21b3",
+      "title": "Machine Learning Intern",
+      "location": "Austin, TX",
+      "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:40e8bafd3eb422657a48": {
+      "company": "\u21b3",
+      "title": "Machine Learning Intern",
+      "location": "Austin, TX",
+      "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://pg.wd5.myworkdayjobs.com/1000/job/mason-bus-and-innovation-ctr/r-d-phd-summer-intern--life-science-modeling--beauty-care_r000158986": {
+      "company": "Procter & Gamble",
+      "title": "PhD Summer Intern - Beauty Care \ud83c\udf93",
+      "location": "Mason, OH",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern--Life-Science-Modeling--Beauty-Care_R000158986?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:0d4a5bab99464f75f81d": {
+      "company": "Procter & Gamble",
+      "title": "PhD Summer Intern - Beauty Care \ud83c\udf93",
+      "location": "Mason, OH",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern--Life-Science-Modeling--Beauty-Care_R000158986?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/nashville-tennessee-united-states/intern--service-sales-ib-focus-nashville--tn-summer-2027_590899": {
+      "company": "Philips",
+      "title": "Service Sales Intern - IB Focus",
+      "location": "Nashville, TN",
+      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern--Service-Sales-IB-Focus-Nashville--TN-Summer-2027_590899?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:ca8cc21636a5098c82e0": {
+      "company": "Philips",
+      "title": "Service Sales Intern - IB Focus",
+      "location": "Nashville, TN",
+      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern--Service-Sales-IB-Focus-Nashville--TN-Summer-2027_590899?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/phd-research-intern--generative-ai-for-physical-ai---2027_jr2025025": {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "PhD Research Intern - Generative AI for Physical AI \ud83c\udf93",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:2c34327b03171d1de5a7": {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "PhD Research Intern - Generative AI for Physical AI \ud83c\udf93",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://njm.wd1.myworkdayjobs.com/njm/job/njm---trenton/it-data-science-intern_r2008284": {
+      "company": "NJM Insurance Group",
+      "title": "Data Science Intern",
+      "location": "Trenton, NJ",
+      "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Science-Intern_R2008284?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:a0a27ef58a16c725fdca": {
+      "company": "NJM Insurance Group",
+      "title": "Data Science Intern",
+      "location": "Trenton, NJ",
+      "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Science-Intern_R2008284?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://relx.wd3.myworkdayjobs.com/en-us/lexisnexislegal/job/raleigh-nc/data-science-internship_r118691-1": {
+      "company": "LexisNexis Legal & Professional",
+      "title": "Data Science Intern",
+      "location": "Raleigh, NC",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:fa10435cb867e00de62c": {
+      "company": "LexisNexis Legal & Professional",
+      "title": "Data Science Intern",
+      "location": "Raleigh, NC",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---texas---richardson/systems-engineering-intern--summer-2027-_jr-2604044": {
+      "company": "GlobalFoundries",
+      "title": "Systems Engineer Intern",
+      "location": "Richardson, TX",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604044?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:9aaf4d7780e0e2d0693d": {
+      "company": "GlobalFoundries",
+      "title": "Systems Engineer Intern",
+      "location": "Richardson, TX",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604044?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://dfwairport.wd5.myworkdayjobs.com/external/job/dfw-intl-airport-board/xmlname-2027-undergraduate-internship---geospatial-data_jr102119-1": {
+      "company": "Dallas Fort Worth International Airport",
+      "title": "Undergraduate Internship - Geospatial Data",
+      "location": "Dallas, TX",
+      "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Geospatial-Data_JR102119-1?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:7aae67f653ad5f707ac5": {
+      "company": "Dallas Fort Worth International Airport",
+      "title": "Undergraduate Internship - Geospatial Data",
+      "location": "Dallas, TX",
+      "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Geospatial-Data_JR102119-1?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://dfwairport.wd5.myworkdayjobs.com/external/job/dfw-intl-airport-board/xmlname-2027-undergraduate-summer-internship---customer-experience-insights---analytics_jr102114": {
+      "company": "\u21b3",
+      "title": "Undergraduate Summer Intern",
+      "location": "Dallas, TX",
+      "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Summer-Internship---Customer-Experience-Insights---Analytics_JR102114?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:4b55785de32015f713de": {
+      "company": "\u21b3",
+      "title": "Undergraduate Summer Intern",
+      "location": "Dallas, TX",
+      "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Summer-Internship---Customer-Experience-Insights---Analytics_JR102114?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://aspentech.wd5.myworkdayjobs.com/aspentech/job/bedford-massachusetts/data-science-intern---summer-2027---bedford--ma_r9459": {
+      "company": "AspenTech",
+      "title": "Data Science Intern \ud83c\udf93",
+      "location": "Bedford, MA",
+      "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:89934d0bd56732ded7b4": {
+      "company": "AspenTech",
+      "title": "Data Science Intern \ud83c\udf93",
+      "location": "Bedford, MA",
+      "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://standoutforgood.wd12.myworkdayjobs.com/standoutforgood/job/knoxville-tn/spring-2027-store-operations-intern_sosj12464": {
+      "company": "Altar'd State",
+      "title": "Store Operations Data Analyst Intern",
+      "location": "Knoxville, TN",
+      "url": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-Store-Operations-Intern_SOSJ12464?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:623b7d837aecf71f3984": {
+      "company": "Altar'd State",
+      "title": "Store Operations Data Analyst Intern",
+      "location": "Knoxville, TN",
+      "url": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-Store-Operations-Intern_SOSJ12464?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:c8d80416e59838a05442": {
+      "company": "Genworth Financial",
+      "title": "Commercial Analytics and Optimization Team Intern",
+      "location": "Raleigh, NC",
+      "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Commercial-Analytics-and-Optimization-Team-Intern_REQ-260363-1?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-15T15:29:47Z"
+    },
+    "id:231a2ab47d30b11e4b36": {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "Deep Learning Computer Architecture Intern",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-08-19T11:29:35Z"
+    },
+    "url:https://troweprice.wd5.myworkdayjobs.com/en-us/troweprice/job/baltimore-md/xmlname-2027-technology-and-data-internship_82677": {
+      "company": "T. Rowe Price",
+      "title": "Technology and Data Intern",
+      "location": "Owings Mills, MDBaltimore, MD",
+      "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:1558bb54a1dd53930ea0": {
+      "company": "T. Rowe Price",
+      "title": "Technology and Data Intern",
+      "location": "Owings Mills, MDBaltimore, MD",
+      "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/jersey-city-new-jersey-united-states-of-america/xmlname-2027-capital-markets--quantitative-technology-services-summer-analyst_r-0000187859": {
+      "company": "Royal Bank of Canada",
+      "title": "Capital Markets Quantitative Technology Services Summer Analyst",
+      "location": "Jersey City, NJ",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2027-Capital-Markets--Quantitative-Technology-Services-Summer-Analyst_R-0000187859?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcc8 Quantitative Finance Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:662aa120738164a3a5b3": {
+      "company": "Royal Bank of Canada",
+      "title": "Capital Markets Quantitative Technology Services Summer Analyst",
+      "location": "Jersey City, NJ",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2027-Capital-Markets--Quantitative-Technology-Services-Summer-Analyst_R-0000187859?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcc8 Quantitative Finance Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/new-york-new-york-united-states-of-america/xmlname-2027-capital-markets--global-markets-quantitative-trading-summer-analyst_r-0000183468-1": {
+      "company": "\u21b3",
+      "title": "Quantitative Trading Summer Analyst - Global Markets",
+      "location": "NYC",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000183468-1?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcc8 Quantitative Finance Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:f04ce95dec2f60ca4a12": {
+      "company": "\u21b3",
+      "title": "Quantitative Trading Summer Analyst - Global Markets",
+      "location": "NYC",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000183468-1?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcc8 Quantitative Finance Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.ashbyhq.com/antares/419ef2df-f0aa-4b68-994a-077e08a959e3/application": {
+      "company": "Antares Nuclear",
+      "title": "Software Engineer Intern",
+      "location": "Torrance, CA",
+      "url": "https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:c44d0a5589bdde8901bb": {
+      "company": "Antares Nuclear",
+      "title": "Software Engineer Intern",
+      "location": "Torrance, CA",
+      "url": "https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.lever.co/cesiumastro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply": {
+      "company": "CesiumAstro",
+      "title": "Electrical Engineer Intern - Hardware",
+      "location": "Austin, TX",
+      "url": "https://jobs.lever.co/CesiumAstro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:f1f040acebb4ac894b10": {
+      "company": "CesiumAstro",
+      "title": "Electrical Engineer Intern - Hardware",
+      "location": "Austin, TX",
+      "url": "https://jobs.lever.co/CesiumAstro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.lever.co/cesiumastro/d25bf640-2b2b-48d6-ab79-8a06b246caaa/apply": {
+      "company": "\u21b3",
+      "title": "Embedded Software Engineer Intern",
+      "location": "Austin, TX",
+      "url": "https://jobs.lever.co/CesiumAstro/d25bf640-2b2b-48d6-ab79-8a06b246caaa/apply?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:78e5b84aaf126d21142c": {
+      "company": "\u21b3",
+      "title": "Embedded Software Engineer Intern",
+      "location": "Austin, TX",
+      "url": "https://jobs.lever.co/CesiumAstro/d25bf640-2b2b-48d6-ab79-8a06b246caaa/apply?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.lever.co/cesiumastro/ccb0f99f-0cc7-4517-8d1c-faeca53b5e5c/apply": {
+      "company": "\u21b3",
+      "title": "Electrical Engineer Intern - Hardware",
+      "location": "Westminster, CO",
+      "url": "https://jobs.lever.co/CesiumAstro/ccb0f99f-0cc7-4517-8d1c-faeca53b5e5c/apply?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:100bd5fb9aff4206cccc": {
+      "company": "\u21b3",
+      "title": "Electrical Engineer Intern - Hardware",
+      "location": "Westminster, CO",
+      "url": "https://jobs.lever.co/CesiumAstro/ccb0f99f-0cc7-4517-8d1c-faeca53b5e5c/apply?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.lever.co/cesiumastro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply": {
+      "company": "\u21b3",
+      "title": "Electrical Engineer Intern - FPGA",
+      "location": "Westminster, CO",
+      "url": "https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:5169e6d3319395f968ed": {
+      "company": "\u21b3",
+      "title": "Electrical Engineer Intern - FPGA",
+      "location": "Westminster, CO",
+      "url": "https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.lever.co/cesiumastro/96e97f22-a5b2-4e95-af84-b4f765343663/apply": {
+      "company": "\u21b3",
+      "title": "Embedded Software Engineer Intern",
+      "location": "Westminster, CO",
+      "url": "https://jobs.lever.co/CesiumAstro/96e97f22-a5b2-4e95-af84-b4f765343663/apply?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:471c516e04b712a23286": {
+      "company": "\u21b3",
+      "title": "Embedded Software Engineer Intern",
+      "location": "Westminster, CO",
+      "url": "https://jobs.lever.co/CesiumAstro/96e97f22-a5b2-4e95-af84-b4f765343663/apply?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ct-windsor-locks-b1--1-hamilton-rd--bldg-1/software-engineering-intern--summer-2027-_01872775": {
+      "company": "RTX",
+      "title": "Software Engineer Intern",
+      "location": "Windsor Locks, CT",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Engineering-Intern--Summer-2027-_01872775?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:4e81b33b8a74879b1149": {
+      "company": "RTX",
+      "title": "Software Engineer Intern",
+      "location": "Windsor Locks, CT",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Engineering-Intern--Summer-2027-_01872775?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-marlborough-ma2--1001-boston-post-rd--bldg-2/receiver--exciter----processing-architecture-software-engineer-intern--summer-2027-_01873484": {
+      "company": "\u21b3",
+      "title": "Software Engineer Intern - Receiver Exciter and Processing Architecture",
+      "location": "Marlborough, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:91c9e8466f0afd135959": {
+      "company": "\u21b3",
+      "title": "Software Engineer Intern - Receiver Exciter and Processing Architecture",
+      "location": "Marlborough, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/austin-tx/server-platform-intern_j2464685": {
+      "company": "Jabil",
+      "title": "Server Platform Intern",
+      "location": "Austin, TX",
+      "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Server-Platform-Intern_J2464685?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:8d69dc2af2d7eb64c46a": {
+      "company": "Jabil",
+      "title": "Server Platform Intern",
+      "location": "Austin, TX",
+      "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Server-Platform-Intern_J2464685?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://lunaroutpost.bamboohr.com/careers/396": {
+      "company": "Lunar Outpost",
+      "title": "Electrical Engineer Intern",
+      "location": "Golden, CO",
+      "url": "https://lunaroutpost.bamboohr.com/careers/396/?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:e07ffe8718f94cce3d4f": {
+      "company": "Lunar Outpost",
+      "title": "Electrical Engineer Intern",
+      "location": "Golden, CO",
+      "url": "https://lunaroutpost.bamboohr.com/careers/396/?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://lunaroutpost.bamboohr.com/careers/399": {
+      "company": "\u21b3",
+      "title": "Test Engineering Intern",
+      "location": "Golden, CO",
+      "url": "https://lunaroutpost.bamboohr.com/careers/399/?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:5c26a4170d4d6903464c": {
+      "company": "\u21b3",
+      "title": "Test Engineering Intern",
+      "location": "Golden, CO",
+      "url": "https://lunaroutpost.bamboohr.com/careers/399/?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://lunaroutpost.bamboohr.com/careers/392": {
+      "company": "\u21b3",
+      "title": "Embedded Software Engineer Intern - Summer 2027",
+      "location": "Golden, CO",
+      "url": "https://lunaroutpost.bamboohr.com/careers/392/?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:cd9a76a6342e877d8180": {
+      "company": "\u21b3",
+      "title": "Embedded Software Engineer Intern - Summer 2027",
+      "location": "Golden, CO",
+      "url": "https://lunaroutpost.bamboohr.com/careers/392/?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application": {
+      "company": "Gecko Robotics",
+      "title": "Embedded Software Engineer Intern - RoboSPLAT - Field Infra",
+      "location": "Pittsburgh, PA",
+      "url": "https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:ead403f0052b9bc49bfb": {
+      "company": "Gecko Robotics",
+      "title": "Embedded Software Engineer Intern - RoboSPLAT - Field Infra",
+      "location": "Pittsburgh, PA",
+      "url": "https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://jobs.keysight.com/jobs/54276": {
+      "company": "Keysight Technologies",
+      "title": "ASIC Design-for-Test Engineer Intern - DFT",
+      "location": "Colorado Springs, CO",
+      "url": "https://jobs.keysight.com/jobs/54276?icims=1&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:caeb7df463cd017bb9d3": {
+      "company": "Keysight Technologies",
+      "title": "ASIC Design-for-Test Engineer Intern - DFT",
+      "location": "Colorado Springs, CO",
+      "url": "https://jobs.keysight.com/jobs/54276?icims=1&utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://hctz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/2506613": {
+      "company": "onsemi",
+      "title": "Reliability Testing and Failure Analysis Intern",
+      "location": "Hopewell Junction, NY",
+      "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506613?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:c26cfb2a7535bb9f27f5": {
+      "company": "onsemi",
+      "title": "Reliability Testing and Failure Analysis Intern",
+      "location": "Hopewell Junction, NY",
+      "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506613?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://boards.greenhouse.io/andurilindustries/jobs/5239083007": {
+      "company": "Anduril",
+      "title": "Flight Software Engineer Intern",
+      "location": "Costa Mesa, CA",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:c986031e9e388b1d5637": {
+      "company": "Anduril",
+      "title": "Flight Software Engineer Intern",
+      "location": "Costa Mesa, CA",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/perry-ok/test-engineering-intern---ditch-witch_jr17320": {
+      "company": "The Toro Company",
+      "title": "Test Engineer Intern",
+      "location": "Perry, OK",
+      "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Test-Engineering-Intern---Ditch-Witch_JR17320?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:da68e5a7a6a9dbf42118": {
+      "company": "The Toro Company",
+      "title": "Test Engineer Intern",
+      "location": "Perry, OK",
+      "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Test-Engineering-Intern---Ditch-Witch_JR17320?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-aerospace-software-engineer-undergraduate-intern_r016605": {
+      "company": "The Aerospace Corporation",
+      "title": "Aerospace Software Engineer Intern",
+      "location": "El Segundo, CA",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:8c415868b257936ebc87": {
+      "company": "The Aerospace Corporation",
+      "title": "Aerospace Software Engineer Intern",
+      "location": "El Segundo, CA",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/physical-design-and-timing-engineer-intern---summer-2027_jr2025511": {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "Physical Design and Timing Engineer Intern \ud83c\udf93",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:d43132e25d19632185b6": {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "Physical Design and Timing Engineer Intern \ud83c\udf93",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://hitachi.wd1.myworkdayjobs.com/hitachi/job/pittsburgh-pennsylvania-united-states/intern---onboard-software-developer_r0145042": {
+      "company": "Hitachi",
+      "title": "Onboard Software Developer Intern",
+      "location": "Pittsburgh, PA",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:4085093f1f4e6a2e23e9": {
+      "company": "Hitachi",
+      "title": "Onboard Software Developer Intern",
+      "location": "Pittsburgh, PA",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/santa-clara-ca/architecture-intern--ms---summer-2027_2604436": {
+      "company": "\u21b3",
+      "title": "Architecture Intern - MS \ud83c\udf93",
+      "location": "Santa Clara, CA",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Architecture-Intern--MS---Summer-2027_2604436?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:12a8781d0c924ae43419": {
+      "company": "\u21b3",
+      "title": "Architecture Intern - MS \ud83c\udf93",
+      "location": "Santa Clara, CA",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Architecture-Intern--MS---Summer-2027_2604436?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-16T15:22:21Z"
+    },
+    "id:91b95bea3058f467d94d": {
+      "company": "RTX",
+      "title": "Software Engineering Intern",
+      "location": "Burnsville, MN",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--Summer-2027-_01872977?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-11T14:55:48Z"
     }
   }
 }
