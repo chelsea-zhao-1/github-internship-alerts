@@ -1,6 +1,6 @@
 {
   "initialized_at": "2026-08-07T18:15:21Z",
-  "last_checked": "2026-09-19T14:14:35Z",
+  "last_checked": "2026-09-20T14:37:38Z",
   "last_status": "success",
   "roles": {
     "url:https://careers.roblox.com/jobs/8072244": {
@@ -6124,7 +6124,7 @@
       "first_seen": "2026-08-07T18:15:21Z"
     },
     "url:https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26011994": {
-      "company": "\u21b3",
+      "company": "American Express",
       "title": "Product Innovation Intern - Credit & Fraud Risk",
       "location": "Phoenix, AZ",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994?utm_source=Simplify&ref=Simplify",
@@ -6214,12 +6214,12 @@
       "first_seen": "2026-08-07T18:15:21Z"
     },
     "url:https://boards.greenhouse.io/embed/job_app": {
-      "company": "\ud83d\udd25 Coinbase",
-      "title": "Software Engineer Intern",
-      "location": "SF",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=8168315&utm_source=Simplify&ref=Simplify",
-      "section": "\ud83d\udcbb Software Engineering Internship Roles",
-      "source": "SimplifyJobs - Summer 2027 Internships",
+      "company": "Gemini",
+      "title": "Software Engineering Intern - Winter 2027",
+      "location": "New York City, NY",
+      "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-08-07T18:15:21Z"
     },
     "url:https://jobs.bytedance.com/en/position/7670855041951795509/detail": {
@@ -7250,9 +7250,9 @@
     },
     "url:https://www.tower-research.com/open-positions": {
       "company": "Tower Research Capital",
-      "title": "Quantitative Developer Intern - Summer 2027",
-      "location": "Chicago, IL +1",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "New York City, NY",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8212158",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-08-07T18:15:21Z"
@@ -8491,10 +8491,10 @@
       "first_seen": "2026-08-12T11:52:05Z"
     },
     "url:https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html": {
-      "company": "Bascom Hunter",
-      "title": "Firmware Engineering Intern - Baton Rouge - LA/Frederick - MD",
-      "location": "Baton Rouge, LA +1",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2cc1abe5-fdf4-41ed-b82d-9b34c651ef79&jobId=574458",
+      "company": "Mathtech",
+      "title": "Web Application Developer Intern",
+      "location": "Falls Church, VA",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf1a92f4-16eb-4267-86ca-bc956024f426&jobId=565843",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-08-12T11:52:05Z"
@@ -17645,9 +17645,9 @@
     },
     "url:https://careers.withwaymo.com/jobs": {
       "company": "Waymo",
-      "title": "2027 Summer Intern - BS/MS - Software Engineering - Maneuvering Tech",
-      "location": "San Francisco, CA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
+      "title": "2027 Summer Intern - MS/PhD - Software Engineer - Multiverse",
+      "location": "Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-01T15:26:03Z"
@@ -19204,7 +19204,7 @@
       "company": "CIBC",
       "title": "2027 Spring Term Software Engineer Co-op - Chicago - Northeastern University",
       "location": "Chicago, IL",
-      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Chicago-IL/XMLNAME-2027-Spring-Term-Software-Engineer-Co-op---Chicago--Northeastern-University-_2617782-1",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Chicago-IL/XMLNAME-2027-Spring-Term-Software-Engineer-Co-op---Chicago--Northeastern-University-_2617782",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-02T15:01:25Z"
@@ -19222,7 +19222,7 @@
       "company": "DraftKings",
       "title": "Software Engineer Intern - Summer 2027",
       "location": "Boston, MA",
-      "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/campus_career_portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928",
+      "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/campus_career_portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14929",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-02T15:01:25Z"
@@ -19537,7 +19537,7 @@
       "company": "HP",
       "title": "Software and Engineering Intern Roles - Imaging and Print",
       "location": "Corvallis, OR",
-      "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142",
+      "url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142-1",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-08-31T17:57:05Z"
@@ -19888,7 +19888,7 @@
       "company": "talentpluto",
       "title": "Full Stack Engineering Intern",
       "location": "New York City, NY",
-      "url": "https://apply.workable.com/talentpluto/j/D3050663DF/",
+      "url": "https://apply.workable.com/talentpluto/j/717116FEE8/",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-08-27T20:56:26Z"
@@ -20302,7 +20302,7 @@
       "company": "Teledyne",
       "title": "NHRC Software Engineering Internship - Summer 2027",
       "location": "Huntsville, AL",
-      "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2",
+      "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-08-15T11:24:48Z"
@@ -20482,7 +20482,7 @@
       "company": "Medtronic",
       "title": "Software Engineering Intern - Summer 2027",
       "location": "Fridley, MN +20",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-08-14T11:49:02Z"
@@ -21004,7 +21004,7 @@
       "company": "CACI",
       "title": "Software Safety Developer/Analyst",
       "location": "Lorton, VA",
-      "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Lorton-VA-US/Software-Safety-Developer-Analyst_330921",
+      "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Lorton-VA-US/Software-Safety-Developer-Analyst_332049",
       "section": "Other",
       "source": "SpeedyApply - New Grad USA",
       "first_seen": "2026-08-28T21:20:12Z"
@@ -22298,11 +22298,11 @@
     },
     "url:https://avav.wd1.myworkdayjobs.com/en-us/avav/job/simi-valley-ca/summer-2027-software-engineering-intern_8611": {
       "company": "AeroVironment",
-      "title": "Software Engineer Intern",
-      "location": "14 locationsGermantown, MDAnnapolis Junction, MDPottstown, PAAlbuquerque, NMSunrise, FLArlington County, Arlington, VAMelbourne, FLPetaluma, CAMinneapolis, MNSan Luis Obispo, CAHuntsville, ALSan Diego, CAMoorpark, CASimi Valley, CA",
-      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611?utm_source=Simplify&ref=Simplify",
-      "section": "\ud83d\udcbb Software Engineering Internship Roles",
-      "source": "SimplifyJobs - Summer 2027 Internships",
+      "title": "Summer 2027 Software Engineering Intern",
+      "location": "Simi Valley, CA +13",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-02T15:01:25Z"
     },
     "id:6a796e36ac1a8a7eb88b": {
@@ -30571,7 +30571,7 @@
       "company": "Clearwater Analytics",
       "title": "Software Development Intern",
       "location": "Boise, ID",
-      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Boise/Software-Development-Intern_R12192",
+      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Boise/Software-Development-Intern_R12098",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-03T14:55:39Z"
@@ -34045,7 +34045,7 @@
       "company": "GPC",
       "title": "Software Engineer - QA Analyst Intern",
       "location": "Birmingham, AL",
-      "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029236",
+      "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-04T14:52:33Z"
@@ -34162,7 +34162,7 @@
       "company": "Clearwater Analytics",
       "title": "Software Development Intern",
       "location": "Chicago, IL",
-      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12187",
+      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12186",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-04T14:52:33Z"
@@ -36988,7 +36988,7 @@
       "company": "talentpluto",
       "title": "Backend Engineering Intern",
       "location": "USA",
-      "url": "https://apply.workable.com/talentpluto/j/CCC60EBB0C/",
+      "url": "https://apply.workable.com/talentpluto/j/6A02556484/",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-05T13:47:06Z"
@@ -38335,7 +38335,7 @@
       "first_seen": "2026-09-05T13:47:06Z"
     },
     "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/santa-clara-ca/physical-design-engineer-intern--bs---summer-2027_2604517": {
-      "company": "\u21b3",
+      "company": "Marvell",
       "title": "Physical Design Engineer Intern - BS",
       "location": "7 locationsMorrisville, NCAustin, TXRochester, MNSanta Clara, CABoise, IDBurlington, VTWestborough, MA",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517?utm_source=Simplify&ref=Simplify",
@@ -38383,7 +38383,7 @@
       "company": "\u21b3",
       "title": "Physical Design Engineer Intern - BS",
       "location": "7 locationsMorrisville, NCAustin, TXRochester, MNSanta Clara, CABoise, IDBurlington, VTWestborough, MA",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517?utm_source=Simplify&ref=Simplify",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1?utm_source=Simplify&ref=Simplify",
       "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "source": "SimplifyJobs - Summer 2027 Internships",
       "first_seen": "2026-09-05T13:47:06Z"
@@ -39091,7 +39091,7 @@
       "first_seen": "2026-09-06T14:02:47Z"
     },
     "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/santa-clara-ca/advanced-packaging-intern--ms---summer-2027_2604519": {
-      "company": "\u21b3",
+      "company": "Marvell",
       "title": "Advanced Packaging Intern \ud83c\udf93",
       "location": "6 locationsAustin, TXSanta Clara, CAWestlake Village, CABurlington, VTChandler, AZWestborough, MA",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519?utm_source=Simplify&ref=Simplify",
@@ -39121,7 +39121,7 @@
       "company": "\u21b3",
       "title": "Advanced Packaging Intern \ud83c\udf93",
       "location": "6 locationsAustin, TXSanta Clara, CAWestlake Village, CABurlington, VTChandler, AZWestborough, MA",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519?utm_source=Simplify&ref=Simplify",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519-1?utm_source=Simplify&ref=Simplify",
       "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "source": "SimplifyJobs - Summer 2027 Internships",
       "first_seen": "2026-09-06T14:02:47Z"
@@ -40369,7 +40369,7 @@
       "first_seen": "2026-08-17T11:30:34Z"
     },
     "url:https://higher.gs.com/roles/171547": {
-      "company": "Goldman Sachs",
+      "company": "\u21b3",
       "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
       "location": "NYC",
       "url": "https://higher.gs.com/roles/171547?type=students&utm_source=Simplify&ref=Simplify",
@@ -43414,7 +43414,7 @@
       "company": "Steel Dynamics",
       "title": "Software Development Internship",
       "location": "Columbus, MS",
-      "url": "https://careers-steeldynamics.icims.com/jobs/8017/software-development-internship/job",
+      "url": "https://careers-aluminumdynamics.icims.com/jobs/8017/software-development-internship/job",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-10T14:55:45Z"
@@ -46042,7 +46042,7 @@
       "company": "TTM Technologies",
       "title": "Software Engineering Internship",
       "location": "Farmingdale, NY",
-      "url": "https://ttmtech.wd5.myworkdayjobs.com/en-US/jobs/job/Farmingdale-NY/Software-Engineering-Internship_R17948",
+      "url": "https://ttmtech.wd5.myworkdayjobs.com/en-US/jobs/job/Farmingdale-NY/Software-Engineering-Internship_R18038",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-11T14:55:48Z"
@@ -49632,8 +49632,8 @@
     "id:8e5e76f231eadb618616": {
       "company": "Fidelity Investments",
       "title": "Co-op - Software Engineer",
-      "location": "Boston, MA",
-      "url": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-op--Software-Engineer_2135200",
+      "location": "Boston, MA +1",
+      "url": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-op--Software-Engineer_2135230",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-13T14:51:50Z"
@@ -51214,12 +51214,12 @@
       "first_seen": "2026-09-15T15:29:47Z"
     },
     "url:https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/backend-software-engineer-intern--undergraduate-_r22593": {
-      "company": "\u21b3",
-      "title": "Full-Stack Software Engineer Intern - Undergraduate",
-      "location": "Remote in USA",
-      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593?utm_source=Simplify&ref=Simplify",
-      "section": "\ud83d\udcbb Software Engineering Internship Roles",
-      "source": "SimplifyJobs - Summer 2027 Internships",
+      "company": "WEX",
+      "title": "Fullstack Software Engineer Intern - Undergraduate",
+      "location": "Remote - USA",
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-15T15:29:47Z"
     },
     "id:ac2b768beeb3e00840a6": {
@@ -52006,7 +52006,7 @@
       "first_seen": "2026-09-15T15:29:47Z"
     },
     "url:https://xcelenergy.wd1.myworkdayjobs.com/external/job/minneapolis-mn-55401/energy-programs-strategy---analytics-intern---mn_jr115669-1": {
-      "company": "\u21b3",
+      "company": "Xcel Energy",
       "title": "Energy Programs Strategy & Analytics Intern",
       "location": "Minneapolis, MNDenver, CO",
       "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Energy-Programs-Strategy---Analytics-Intern---MN_JR115669-1?utm_source=Simplify&ref=Simplify",
@@ -53870,11 +53870,11 @@
     },
     "url:https://job-boards.greenhouse.io/nisc/jobs/8204086": {
       "company": "National Information Solutions Cooperative",
-      "title": "Software Development Intern - AI Development",
-      "location": "Lake St Louis, MOCedar Rapids, IA",
-      "url": "https://job-boards.greenhouse.io/nisc/jobs/8204086?utm_source=Simplify&ref=Simplify",
-      "section": "\ud83d\udcbb Software Engineering Internship Roles",
-      "source": "SimplifyJobs - Summer 2027 Internships",
+      "title": "Intern - Software Development - AI Development",
+      "location": "Cedar Rapids, IA +1",
+      "url": "https://job-boards.greenhouse.io/nisc/jobs/8204086",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-16T15:22:21Z"
     },
     "id:bae52d18d187c2eae43f": {
@@ -53887,12 +53887,12 @@
       "first_seen": "2026-09-16T15:22:21Z"
     },
     "url:https://job-boards.greenhouse.io/testnisc/jobs/8204156": {
-      "company": "National Information Solutions Cooperative",
-      "title": "Intern - Software Development - AI Development",
-      "location": "Cedar Rapids, IA +1",
-      "url": "https://job-boards.greenhouse.io/testnisc/jobs/8204156",
-      "section": "Other",
-      "source": "SpeedyApply - USA Internships",
+      "company": "\u21b3",
+      "title": "Software Development Intern - AI Development",
+      "location": "Lake St Louis, MOCedar Rapids, IA",
+      "url": "https://job-boards.greenhouse.io/testnisc/jobs/8204156?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83d\udcbb Software Engineering Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
       "first_seen": "2026-09-16T15:22:21Z"
     },
     "id:58b1e85d77249268f771": {
@@ -55303,7 +55303,7 @@
       "company": "National Information Solutions Cooperative",
       "title": "Intern - Software Development - AI Development",
       "location": "Cedar Rapids, IA +1",
-      "url": "https://job-boards.greenhouse.io/testnisc/jobs/8204156",
+      "url": "https://job-boards.greenhouse.io/nisc/jobs/8204086",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-16T15:22:21Z"
@@ -56851,7 +56851,7 @@
       "company": "Itron",
       "title": "Intern - Firmware Engineer - Spring 2027",
       "location": "West Union, OH",
-      "url": "https://itron.wd5.myworkdayjobs.com/en-US/itron/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920-1",
+      "url": "https://itron.wd5.myworkdayjobs.com/en-US/early_careers/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920",
       "section": "Other",
       "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-18T14:52:49Z"
@@ -58433,7 +58433,7 @@
     },
     "url:https://www.amazon.jobs/jobs/10552937/apply": {
       "company": "Amazon",
-      "title": "Software Development Engineer Internship - Summer -2027 - USA",
+      "title": "Software Development Engineer Intern - Summer 2027 - USA",
       "location": "Seattle, WA",
       "url": "https://www.amazon.jobs/jobs/10552937/apply",
       "section": "FAANG+",
@@ -58622,11 +58622,11 @@
     },
     "url:https://job-boards.greenhouse.io/togetherai/jobs/5232036007": {
       "company": "Together AI",
-      "title": "Software Engineer Intern",
-      "location": "SF",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5232036007?utm_source=Simplify&ref=Simplify",
-      "section": "\ud83d\udcbb Software Engineering Internship Roles",
-      "source": "SimplifyJobs - Summer 2027 Internships",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5232036007",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
       "first_seen": "2026-09-19T14:14:34Z"
     },
     "id:47fa89d0edf7c30da843": {
@@ -59456,6 +59456,717 @@
       "section": "\ud83d\udd27 Hardware Engineering Internship Roles",
       "source": "SimplifyJobs - Summer 2027 Internships",
       "first_seen": "2026-09-19T14:14:34Z"
+    },
+    "id:3f8db000b0fa31013b4a": {
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern - Summer 2027 - USA",
+      "location": "Seattle, WA",
+      "url": "https://www.amazon.jobs/jobs/10552937/apply",
+      "section": "FAANG+",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-19T14:14:34Z"
+    },
+    "url:https://jobs.lever.co/acronaviation/19dbac7d-b4fb-4d21-9247-dc610bf55fed": {
+      "company": "Acron Aviation",
+      "title": "Software Engineer Intern - St. Pete Site",
+      "location": "St. Petersburg, FL",
+      "url": "https://jobs.lever.co/acronaviation/19dbac7d-b4fb-4d21-9247-dc610bf55fed",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:19a79ea920be65b028e6": {
+      "company": "Acron Aviation",
+      "title": "Software Engineer Intern - St. Pete Site",
+      "location": "St. Petersburg, FL",
+      "url": "https://jobs.lever.co/acronaviation/19dbac7d-b4fb-4d21-9247-dc610bf55fed",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf": {
+      "company": "Fable",
+      "title": "Software Engineering Intern",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:7b8186883ea1527d204c": {
+      "company": "Fable",
+      "title": "Software Engineering Intern",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:e39411980b714017340b": {
+      "company": "Gemini",
+      "title": "Software Engineering Intern - Winter 2027",
+      "location": "New York City, NY",
+      "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-08-07T18:15:21Z"
+    },
+    "url:https://jobs.ashbyhq.com/megazone/1d75a5d5-def9-43c0-9bf5-23e5bb65bf3f": {
+      "company": "Megazone Cloud US",
+      "title": "Cloud Operations Co-op 2027",
+      "location": "Rochester, NY",
+      "url": "https://jobs.ashbyhq.com/megazone/1d75a5d5-def9-43c0-9bf5-23e5bb65bf3f",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:a306a70724184fc77049": {
+      "company": "Megazone Cloud US",
+      "title": "Cloud Operations Co-op 2027",
+      "location": "Rochester, NY",
+      "url": "https://jobs.ashbyhq.com/megazone/1d75a5d5-def9-43c0-9bf5-23e5bb65bf3f",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://www.rubrik.com/company/careers/departments/job.8171088": {
+      "company": "rubrik",
+      "title": "Software Engineering Winter Internship",
+      "location": "Palo Alto, CA",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:2a1b6e6210c1407f0830": {
+      "company": "rubrik",
+      "title": "Software Engineering Winter Internship",
+      "location": "Palo Alto, CA",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:236239f158f8cb51edd7": {
+      "company": "Together AI",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5232036007",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-19T14:14:34Z"
+    },
+    "url:https://job-boards.greenhouse.io/togetherai/jobs/5238031007": {
+      "company": "Together AI",
+      "title": "Software Engineer Intern - Winter 2027",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238031007",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:4fc011fde0bb2fd54939": {
+      "company": "Together AI",
+      "title": "Software Engineer Intern - Winter 2027",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238031007",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://job-boards.greenhouse.io/togetherai/jobs/5238472007": {
+      "company": "Together AI",
+      "title": "Software Development In Test Intern - Summer 2027",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238472007",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:5ac10d48ba165e7c0c2c": {
+      "company": "Together AI",
+      "title": "Software Development In Test Intern - Summer 2027",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238472007",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:d84ea79b23fbb92cf4d1": {
+      "company": "Waymo",
+      "title": "2027 Summer Intern - MS/PhD - Software Engineer - Multiverse",
+      "location": "Mountain View, CA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-01T15:26:03Z"
+    },
+    "url:http://appliedinnovation.applytojob.com/apply/dwiahxqujn/software-solutions-intern-grand-rapids-mi": {
+      "company": "Applied Innovation",
+      "title": "Software Solutions Intern - Grand Rapids MI",
+      "location": "Grand Rapids, MI",
+      "url": "http://appliedinnovation.applytojob.com/apply/DWiAHxQUJn/Software-Solutions-Intern-Grand-Rapids-MI",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:431f0c61e6ae3ae39ba8": {
+      "company": "Applied Innovation",
+      "title": "Software Solutions Intern - Grand Rapids MI",
+      "location": "Grand Rapids, MI",
+      "url": "http://appliedinnovation.applytojob.com/apply/DWiAHxQUJn/Software-Solutions-Intern-Grand-Rapids-MI",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://careers-berkley.icims.com/jobs/14444/software-developer-intern/job": {
+      "company": "Berkley Insurance",
+      "title": "Software Developer Intern",
+      "location": "Urbandale, IA",
+      "url": "https://careers-berkley.icims.com/jobs/14444/software-developer-intern/job",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:f6f7f0e7763b109067ae": {
+      "company": "Berkley Insurance",
+      "title": "Software Developer Intern",
+      "location": "Urbandale, IA",
+      "url": "https://careers-berkley.icims.com/jobs/14444/software-developer-intern/job",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://careers-daytonfreight.icims.com/jobs/18249/software-developer-intern/job": {
+      "company": "Dayton Freight",
+      "title": "Software Developer Intern",
+      "location": "Dayton, OH",
+      "url": "https://careers-daytonfreight.icims.com/jobs/18249/software-developer-intern/job",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:6cae1fbfe68e4828ce09": {
+      "company": "Dayton Freight",
+      "title": "Software Developer Intern",
+      "location": "Dayton, OH",
+      "url": "https://careers-daytonfreight.icims.com/jobs/18249/software-developer-intern/job",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://ntst.wd1.myworkdayjobs.com/en-us/careers/job/overland-park-ks/cloud-engineer-future---summer-2027-internship-_r015668": {
+      "company": "Netsmart",
+      "title": "Cloud Engineer Future - Summer 2027 Internship",
+      "location": "Overland Park, KS",
+      "url": "https://ntst.wd1.myworkdayjobs.com/en-US/careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:b01c77bb13adab9f5f8d": {
+      "company": "Netsmart",
+      "title": "Cloud Engineer Future - Summer 2027 Internship",
+      "location": "Overland Park, KS",
+      "url": "https://ntst.wd1.myworkdayjobs.com/en-US/careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://ntst.wd1.myworkdayjobs.com/en-us/careers/job/overland-park-ks/software-engineer-intern--summer-2027-internship-_r015667": {
+      "company": "Netsmart",
+      "title": "Software Engineer Intern - Summer 2027 Internship",
+      "location": "Overland Park, KS",
+      "url": "https://ntst.wd1.myworkdayjobs.com/en-US/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:72a7c0cf29206aae395d": {
+      "company": "Netsmart",
+      "title": "Software Engineer Intern - Summer 2027 Internship",
+      "location": "Overland Park, KS",
+      "url": "https://ntst.wd1.myworkdayjobs.com/en-US/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://theocc.wd5.myworkdayjobs.com/en-us/careers/job/chicago---125-s-franklin/year-round-intern---cloud-engineering_req-4839": {
+      "company": "OCC",
+      "title": "Year-Round Intern - Cloud Engineering",
+      "location": "Chicago, IL",
+      "url": "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---Cloud-Engineering_REQ-4839",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:5661892813bb0d3d7add": {
+      "company": "OCC",
+      "title": "Year-Round Intern - Cloud Engineering",
+      "location": "Chicago, IL",
+      "url": "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---Cloud-Engineering_REQ-4839",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:ef17ca684047bcb00dda": {
+      "company": "Tower Research Capital",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "New York City, NY",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8212158",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-08-07T18:15:21Z"
+    },
+    "url:https://axcelis.wd1.myworkdayjobs.com/en-us/axcelis/job/beverly-ma/co-op---manufacturing-software-development-_12019": {
+      "company": "Axcelis",
+      "title": "Co-Op - Manufacturing Software Development",
+      "location": "Beverly, MA",
+      "url": "https://axcelis.wd1.myworkdayjobs.com/en-US/axcelis/job/Beverly-MA/Co-Op---Manufacturing-Software-Development-_12019",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:78fe0fcab6a9685c9913": {
+      "company": "Axcelis",
+      "title": "Co-Op - Manufacturing Software Development",
+      "location": "Beverly, MA",
+      "url": "https://axcelis.wd1.myworkdayjobs.com/en-US/axcelis/job/Beverly-MA/Co-Op---Manufacturing-Software-Development-_12019",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://careers-berkley.icims.com/jobs/14445/dynamics-admin-developer-intern/job": {
+      "company": "Berkley Insurance",
+      "title": "Dynamics Admin/Developer Intern",
+      "location": "Urbandale, IA",
+      "url": "https://careers-berkley.icims.com/jobs/14445/dynamics-admin-developer-intern/job",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:0483cd0117f614c3c5b9": {
+      "company": "Berkley Insurance",
+      "title": "Dynamics Admin/Developer Intern",
+      "location": "Urbandale, IA",
+      "url": "https://careers-berkley.icims.com/jobs/14445/dynamics-admin-developer-intern/job",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://careers-berkley.icims.com/jobs/14437/software-developer-%28java%29-intern-%7c-june-2027/job": {
+      "company": "Berkley Insurance",
+      "title": "Software Developer - Java Intern - June 2027",
+      "location": "Urbandale, IA",
+      "url": "https://careers-berkley.icims.com/jobs/14437/software-developer-%28java%29-intern-%7c-june-2027/job",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:76bb2ace303375e602ba": {
+      "company": "Berkley Insurance",
+      "title": "Software Developer - Java Intern - June 2027",
+      "location": "Urbandale, IA",
+      "url": "https://careers-berkley.icims.com/jobs/14437/software-developer-%28java%29-intern-%7c-june-2027/job",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://bcbsks.wd1.myworkdayjobs.com/en-us/external/job/topeka/rpa-engineering-developer-intern_r2026350": {
+      "company": "Blue Cross and Blue Shield of Kansas",
+      "title": "RPA Engineering Developer Intern",
+      "location": "Topeka, KS",
+      "url": "https://bcbsks.wd1.myworkdayjobs.com/en-US/external/job/Topeka/RPA-Engineering-Developer-Intern_R2026350",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:cb9d7df2c0cd8fd39dc8": {
+      "company": "Blue Cross and Blue Shield of Kansas",
+      "title": "RPA Engineering Developer Intern",
+      "location": "Topeka, KS",
+      "url": "https://bcbsks.wd1.myworkdayjobs.com/en-US/external/job/Topeka/RPA-Engineering-Developer-Intern_R2026350",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://churchdwight.wd1.myworkdayjobs.com/en-us/chdcareers/job/usa-ewing-nj/ai-developer-co-op---graduate-program--9-months-_r2026-15686": {
+      "company": "Church & Dwight",
+      "title": "AI Developer Co-op - Graduate Program - 9 Months",
+      "location": "Ewing, NJ",
+      "url": "https://churchdwight.wd1.myworkdayjobs.com/en-US/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:889af43ef71ff661b931": {
+      "company": "Church & Dwight",
+      "title": "AI Developer Co-op - Graduate Program - 9 Months",
+      "location": "Ewing, NJ",
+      "url": "https://churchdwight.wd1.myworkdayjobs.com/en-US/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://fis.wd5.myworkdayjobs.com/en-us/searchjobs/job/us-fl-jax-347/intern--software-engineer--fis-university-program_jr0309512": {
+      "company": "FIS",
+      "title": "Intern - Software Engineer - FIS University Program",
+      "location": "Jacksonville, FL +1",
+      "url": "https://fis.wd5.myworkdayjobs.com/en-US/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:f2ad8e1b5bd041da4686": {
+      "company": "FIS",
+      "title": "Intern - Software Engineer - FIS University Program",
+      "location": "Jacksonville, FL +1",
+      "url": "https://fis.wd5.myworkdayjobs.com/en-US/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://careers-gdms.icims.com/jobs/75013/embedded-software-engineer-%e2%80%93-intern/job": {
+      "company": "General Dynamics Mission Systems",
+      "title": "Embedded Software Engineer - Intern",
+      "location": "Boise, ID +1",
+      "url": "https://careers-gdms.icims.com/jobs/75013/embedded-software-engineer-%e2%80%93-intern/job",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:d26908848844b88e4014": {
+      "company": "General Dynamics Mission Systems",
+      "title": "Embedded Software Engineer - Intern",
+      "location": "Boise, ID +1",
+      "url": "https://careers-gdms.icims.com/jobs/75013/embedded-software-engineer-%e2%80%93-intern/job",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://greatamerica.wd12.myworkdayjobs.com/en-us/greatamericacareers/job/cedar-rapids-ia/software-quality-engineer-intern_jr1235": {
+      "company": "GreatAmerica Financial Services",
+      "title": "Software Quality Engineer Intern",
+      "location": "Cedar Rapids, IA +1",
+      "url": "https://greatamerica.wd12.myworkdayjobs.com/en-US/greatamericacareers/job/Cedar-Rapids-IA/Software-Quality-Engineer-Intern_JR1235",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:fb2ff168a3940f397837": {
+      "company": "GreatAmerica Financial Services",
+      "title": "Software Quality Engineer Intern",
+      "location": "Cedar Rapids, IA +1",
+      "url": "https://greatamerica.wd12.myworkdayjobs.com/en-US/greatamericacareers/job/Cedar-Rapids-IA/Software-Quality-Engineer-Intern_JR1235",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://marvell.wd1.myworkdayjobs.com/en-us/marvellcareers/job/burlington-vt/sram-software-engineer-intern--bs---summer-2027_2603760-1": {
+      "company": "Marvell",
+      "title": "SRAM Software Engineer Intern - BS - Summer 2027",
+      "location": "Burlington, VT",
+      "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:b10282ba3f0a0aa50762": {
+      "company": "Marvell",
+      "title": "SRAM Software Engineer Intern - BS - Summer 2027",
+      "location": "Burlington, VT",
+      "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://theocc.wd5.myworkdayjobs.com/en-us/careers/job/chicago---125-s-franklin/summer-intern---software-engineering--ui-ux_req-4868": {
+      "company": "OCC",
+      "title": "Summer Intern - Software Engineering: UI/UX",
+      "location": "Chicago, IL",
+      "url": "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Summer-Intern---Software-Engineering--UI-UX_REQ-4868",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:cd2cf8291b11a719698c": {
+      "company": "OCC",
+      "title": "Summer Intern - Software Engineering: UI/UX",
+      "location": "Chicago, IL",
+      "url": "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Summer-Intern---Software-Engineering--UI-UX_REQ-4868",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-ma-tewksbury-tb3--50-apple-hill-dr--concord-bldg-tewksbury-tb3-300-concord/software-development-intern--summer-2027-_01875413": {
+      "company": "Raytheon",
+      "title": "Software Development Intern - Summer 2027",
+      "location": "Tewksbury, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01875413",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:520f35205d04423ffd89": {
+      "company": "Raytheon",
+      "title": "Software Development Intern - Summer 2027",
+      "location": "Tewksbury, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01875413",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://ttmtech.wd5.myworkdayjobs.com/en-us/jobs/job/farmingdale-ny/software-engineering-internship_r18038": {
+      "company": "TTM Technologies",
+      "title": "Software Engineering Internship",
+      "location": "Farmingdale, NY",
+      "url": "https://ttmtech.wd5.myworkdayjobs.com/en-US/jobs/job/Farmingdale-NY/Software-Engineering-Internship_R18038",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-11T14:55:48Z"
+    },
+    "url:https://visa.wd5.myworkdayjobs.com/en-us/visa/job/us---foster-city-ca/software-engineer--intern---foster-city-2027_ref088587w-1": {
+      "company": "Visa",
+      "title": "Software Engineer - Intern - Foster City 2027",
+      "location": "Foster City, CA",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:756f810cc2bd266d437f": {
+      "company": "Visa",
+      "title": "Software Engineer - Intern - Foster City 2027",
+      "location": "Foster City, CA",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://visa.wd5.myworkdayjobs.com/en-us/visa_early_careers/job/us---bellevue-wa/xmlname-2027-sophomore-internship-program---software-engineer-intern--bellevue_ref088594w": {
+      "company": "Visa",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern - Bellevue",
+      "location": "USA +1",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:846ceaad9dc0de9b5bab": {
+      "company": "Visa",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern - Bellevue",
+      "location": "USA +1",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://visa.wd5.myworkdayjobs.com/en-us/visa/job/us---bellevue-wa/software-engineer--intern--bellevue---2027_ref088585w-2": {
+      "company": "Visa",
+      "title": "Software Engineer - Intern - Bellevue - 2027",
+      "location": "USA +1",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Bellevue-WA/Software-Engineer--Intern--Bellevue---2027_REF088585W-2",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:abc4991669c7a1b0ecc0": {
+      "company": "Visa",
+      "title": "Software Engineer - Intern - Bellevue - 2027",
+      "location": "USA +1",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Bellevue-WA/Software-Engineer--Intern--Bellevue---2027_REF088585W-2",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://visa.wd5.myworkdayjobs.com/en-us/visa/job/us---foster-city-ca/xmlname-2027-sophomore-internship-program---software-engineer-intern--foster-city_ref088591w-1": {
+      "company": "Visa",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern - Foster City",
+      "location": "Foster City, CA",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:7dac4f501de52224b420": {
+      "company": "Visa",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern - Foster City",
+      "location": "Foster City, CA",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://itron.wd5.myworkdayjobs.com/en-us/early_careers/job/united-states-of-america-south-carolina-west-union/intern----firmware-engineer--spring-2027-_jr102920": {
+      "company": "Itron",
+      "title": "Intern - Firmware Engineer - Spring 2027",
+      "location": "West Union, OH",
+      "url": "https://itron.wd5.myworkdayjobs.com/en-US/early_careers/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-18T14:52:49Z"
+    },
+    "url:https://apply.workable.com/talentpluto/j/6a02556484": {
+      "company": "talentpluto",
+      "title": "Backend Engineering Intern",
+      "location": "USA",
+      "url": "https://apply.workable.com/talentpluto/j/6A02556484/",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-05T13:47:06Z"
+    },
+    "url:https://apply.workable.com/talentpluto/j/717116fee8": {
+      "company": "talentpluto",
+      "title": "Full Stack Engineering Intern",
+      "location": "New York City, NY",
+      "url": "https://apply.workable.com/talentpluto/j/717116FEE8/",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-08-27T20:56:26Z"
+    },
+    "url:https://ninjaholdings.breezy.hr/p/23a015fea536-software-engineer-intern": {
+      "company": "NinjaHoldings",
+      "title": "Software Engineer Intern",
+      "location": "Chicago, IL",
+      "url": "https://ninjaholdings.breezy.hr/p/23a015fea536-software-engineer-intern",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:50b4749e0cb3c1d14375": {
+      "company": "NinjaHoldings",
+      "title": "Software Engineer Intern",
+      "location": "Chicago, IL",
+      "url": "https://ninjaholdings.breezy.hr/p/23a015fea536-software-engineer-intern",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://priceline.wd1.myworkdayjobs.com/en-us/priceline-collegehiring/job/new-york/software-engineering---full-stack--northeastern-co-op-_r5822": {
+      "company": "Priceline",
+      "title": "Software Engineering - Full Stack - Northeastern Co-op",
+      "location": "New York City, NY",
+      "url": "https://priceline.wd1.myworkdayjobs.com/en-US/priceline-collegehiring/job/New-York/Software-Engineering---Full-Stack--Northeastern-Co-op-_R5822",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:37d151e35575e2fb411b": {
+      "company": "Priceline",
+      "title": "Software Engineering - Full Stack - Northeastern Co-op",
+      "location": "New York City, NY",
+      "url": "https://priceline.wd1.myworkdayjobs.com/en-US/priceline-collegehiring/job/New-York/Software-Engineering---Full-Stack--Northeastern-Co-op-_R5822",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://priceline.wd1.myworkdayjobs.com/en-us/priceline-collegehiring/job/new-york/software-engineering---web-javascript--northeastern-co-op-_r5818": {
+      "company": "Priceline",
+      "title": "Software Engineering - Web/Javascript - Northeastern Co-op",
+      "location": "New York City, NY",
+      "url": "https://priceline.wd1.myworkdayjobs.com/en-US/priceline-collegehiring/job/New-York/Software-Engineering---Web-Javascript--Northeastern-Co-op-_R5818",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:531740dc798a5e058f2f": {
+      "company": "Priceline",
+      "title": "Software Engineering - Web/Javascript - Northeastern Co-op",
+      "location": "New York City, NY",
+      "url": "https://priceline.wd1.myworkdayjobs.com/en-US/priceline-collegehiring/job/New-York/Software-Engineering---Web-Javascript--Northeastern-Co-op-_R5818",
+      "section": "Other",
+      "source": "SpeedyApply - USA Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://apply.workable.com/ace-it-careers-1/j/8e52b2bf7a": {
+      "company": "Ace IT Careers",
+      "title": "Entry-Level Software QA Analyst",
+      "location": "Chicago, IL +4",
+      "url": "https://apply.workable.com/ace-it-careers-1/j/8E52B2BF7A/",
+      "section": "Other",
+      "source": "SpeedyApply - New Grad USA",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:2f01c21ec2ca5e236250": {
+      "company": "Ace IT Careers",
+      "title": "Entry-Level Software QA Analyst",
+      "location": "Chicago, IL +4",
+      "url": "https://apply.workable.com/ace-it-careers-1/j/8E52B2BF7A/",
+      "section": "Other",
+      "source": "SpeedyApply - New Grad USA",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://toyota.wd503.myworkdayjobs.com/en-us/tmna/job/plano-texas/software-engineer--early-career-professional-_10325071": {
+      "company": "Toyota",
+      "title": "Software Engineer - Early Career Professional",
+      "location": "Plano, TX",
+      "url": "https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071",
+      "section": "Other",
+      "source": "SpeedyApply - New Grad USA",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:391ce5631a4ddc078674": {
+      "company": "Toyota",
+      "title": "Software Engineer - Early Career Professional",
+      "location": "Plano, TX",
+      "url": "https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071",
+      "section": "Other",
+      "source": "SpeedyApply - New Grad USA",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://caci.wd1.myworkdayjobs.com/en-us/external/job/lorton-va-us/software-safety-developer-analyst_332049": {
+      "company": "CACI",
+      "title": "Software Safety Developer/Analyst",
+      "location": "Lorton, VA",
+      "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Lorton-VA-US/Software-Safety-Developer-Analyst_332049",
+      "section": "Other",
+      "source": "SpeedyApply - New Grad USA",
+      "first_seen": "2026-08-28T21:20:12Z"
+    },
+    "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-reliability-and-statistics-undergraduate-intern_r016594": {
+      "company": "The Aerospace Corporation",
+      "title": "Reliability and Statistics Intern",
+      "location": "El Segundo, CA",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:06453ca404ac542bf722": {
+      "company": "The Aerospace Corporation",
+      "title": "Reliability and Statistics Intern",
+      "location": "El Segundo, CA",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "url:https://globalhr.wd5.myworkdayjobs.com/fr-ca/private_posting_no_tmp/job/us-ma-cambridge-bbn06--10--50-moulton-st--moulton-b6/software-engineer-intern--summer-2027----onsite_01873017": {
+      "company": "RTX",
+      "title": "Software Engineer Intern",
+      "location": "Cambridge, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:8b161b65a8509ea1bf39": {
+      "company": "RTX",
+      "title": "Software Engineer Intern",
+      "location": "Cambridge, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-20T14:37:37Z"
+    },
+    "id:43eb23e2e007910bdfd0": {
+      "company": "Xcel Energy",
+      "title": "Energy Programs Strategy & Analytics Intern",
+      "location": "Minneapolis, MNDenver, CO",
+      "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Energy-Programs-Strategy---Analytics-Intern---MN_JR115669-1?utm_source=Simplify&ref=Simplify",
+      "section": "\ud83e\udd16 Data Science, AI & Machine Learning Internship Roles",
+      "source": "SimplifyJobs - Summer 2027 Internships",
+      "first_seen": "2026-09-15T15:29:47Z"
     }
   }
 }
